@@ -1,0 +1,13 @@
+# Urheberrechtlich geschütztes Material – NICHT veröffentlichen.
+# Die Handbuch-PDFs stammen aus der Beck eLibrary (Inlibra) und tragen auf jeder
+# Seite einen personenbezogenen Wasserzeichen-Vermerk mit IP-Adresse und Zugriffszeit.
+Material/
+
+# Personenbezogene Daten Dritter (Klassenliste, Arbeiten anderer Studierender)
+Lektion/00-organisation.md
+Lektion/03-beispiel-praesentation.md
+Lektion/theorie.md
+
+# System
+.DS_Store
+.idea/
