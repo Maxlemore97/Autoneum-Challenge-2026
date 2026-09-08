@@ -1,4 +1,4 @@
-# Zwei Ideen für Challenge C – Stand 7. Sep 2026
+# Drei Ideen für Challenge C – Stand 8. Sep 2026
 
 Gewählte Challenge: **C – Robotaxi / Cabin Comfort**, fokussiert auf den
 **reinigbaren Boden**.
@@ -35,20 +35,25 @@ wir stossen, und es ist eine Lücke in seiner eigenen Folie.
 
 ## Idee 1 – „Clean Class": Reinigbarkeit als spezifizierbare Kenngrösse
 
-**Kern:** Autoneum besitzt bereits den **Carpet Cleanability Analyzer** – ein
-robotergeführter Saugarm mit definiertem Anpressdruck reinigt pro Zyklus drei
-verschmutzte Teppichproben; bewertet wird über Rückstand auf der Oberfläche und
-Gewichtsdifferenz. Heute ist das ein internes Laborgerät und in der Broschüre ein
-Adjektiv („easy to clean").
+**Korrektur zur ersten Fassung:** Die Kennzahl existiert bereits. Der
+**Carpet Cleanability Analyzer** steht in Autoneums Produktbroschüre unter
+*Measurement Systems* — neben APAMAT II und ELWIS —, wird in der **Vorentwicklung**
+neuer Fahrzeugmodelle eingesetzt, wird **mit standardisierten Schmutzpartikeln
+ausgeliefert** und gibt bereits einen **Cleanability Index** und einen **Dirt
+Repellency Index** aus. Wir erfinden hier also nichts.
 
-Der Vorschlag: daraus die **Branchennorm** machen. Ein veröffentlichtes Prüfprotokoll,
-eine Klassierung (Clean Class A–D) und eine zweite Kennzahl **„time to reset"** –
-wie lange braucht ein Laie, bis die Fläche wieder vermietbar ist.
+**Kern:** Genau das ist die bessere Nachricht. Die Messung ist gebaut, validiert
+und produktisiert — sie liegt nur im falschen Raum. Sie dient heute der internen
+Auslegung, nicht dem Markt. Der Vorschlag: den Index aus der Vorentwicklung
+herausheben und zur **veröffentlichten, vom OEM spezifizierbaren Klasse** machen —
+Clean Class A–D, plus die zweite Kennzahl **„time to reset"**: wie lange ein Laie
+braucht, bis die Fläche wieder vermietbar ist.
 
-**Was neu ist:** Der Schmutzkatalog. Der Analyzer prüft heute stark haftende Partikel
-wie Sandkörner und Wollfasern. Für geteilte Fahrzeuge braucht es den realen Katalog:
-Kaffee, Streusalz-Schneematsch, Sand, Kosmetik, Fettiges aus Take-away, Tierhaare,
-Haare. Das ist wenig Aufwand und ergibt eine Datenbasis, die sonst niemand hat.
+**Was daran wirklich neu ist — der Schmutzkatalog.** Der Analyzer prüft heute
+stark haftende Partikel wie Sandkörner und Wollfasern, ausgelegt auf den
+Privat-Pkw. Für geteilte Fahrzeuge braucht es die reale Liste: Kaffee,
+Streusalz-Schneematsch, Kosmetik, Take-away-Fett, Tierhaare, Haare. Der Aufwand
+ist klein, die entstehende Datenbasis hat sonst niemand.
 
 **Warum das ein Vorsprung ist:** Wer die Messmethode definiert, definiert den
 Wettbewerb. Sobald ein OEM „Clean Class A" ins Lastenheft schreibt, ist Autoneum der
@@ -77,7 +82,24 @@ entscheiden: schöner absorbierender Teppich, der Flecken zieht – oder Gummima
 die laut ist. In einem BEV-Robotaxi ohne Motorgeräusch fällt das doppelt auf, weil
 Roll- und Windgeräusche dann dominieren.
 
-**Die Lösung liegt bei Autoneum schon im Haus – nur aussen am Auto.**
+**Die Lösung liegt bei Autoneum schon im Haus – gleich dreifach.**
+
+*Erstens, am selben Bauteil, nur im falschen Fahrzeug:* **Washable surface
+flooring** steht auf Folie 7 als erster Punkt unter *Interior floor* beim
+**Nutzfahrzeug**. Beim Pkw gibt es das nicht. Das Produkt kam mit **Borgers
+Automotive** ins Haus (übernommen 1. April 2023, EUR 117 Mio.) und ist seither
+im Lkw-Portfolio geblieben. Autoneums eigene Nutzfahrzeug-Seite führt
+**„outstanding cleanability"** als erstes Argument — bei den Pkw-Böden steht es
+nicht an dieser Stelle.
+
+*Zweitens, der gelöste Zielkonflikt:* **Alpha-Liner**, der textile
+Radhaus-Aussenliner, trägt eine **dünne Beschichtung**, bei der „the porosity of
+the textile material is **tuned to maximize the sound absorption**" — und
+gleichzeitig ist „the plasticized surface **also easier to clean**". Beschichtet,
+akustisch abgestimmt und leichter zu reinigen, in einem Bauteil. Die Beschichtung
+wird nur dort aufgetragen, wo sie wirkt, damit der Verschnitt recycelbar bleibt.
+
+*Drittens, das Prinzip in Metall:*
 Die **RIMIC**-Hitzeschilde sind geschlossene Aluminiumbleche, die trotzdem
 absorbieren: Eine gezielte **Mikroperforation** wandelt Luftschall in Wärme um, und
 die Akustikleistung wird schlicht über die Anzahl Öffnungen pro Schild gesteuert.
@@ -96,15 +118,128 @@ Das löst den eigentlichen psychologischen Konflikt: Der Halter will, dass sich 
 Auto wie *seins* anfühlt, obwohl Fremde darin sitzen.
 
 **Regelkonformität:** „Get inspired by other industries and markets" – wir holen die
-Inspiration aus Autoneums eigener Exterieur-Produktlinie in den Innenraum. Das ist
-belastbarer als eine fremde Branche, weil Fertigungsverfahren und Kompetenz schon da
-sind. Monomaterial-PET bleibt vollständig recycelbar, damit bleibt die Idee auf der
-Nachhaltigkeitslinie des ganzen Autoneum-Portfolios.
+Inspiration aus Autoneums eigenen Nachbarsegmenten in den Pkw-Innenraum. Das ist
+belastbarer als eine fremde Branche, weil Fertigungsverfahren, Beschichtungs-Know-how
+und Messtechnik alle schon da sind. Monomaterial-PET bleibt vollständig recycelbar,
+damit bleibt die Idee auf der Nachhaltigkeitslinie des ganzen Portfolios.
+
+**Die Pointe für die Story:** Autoneum hat den waschbaren Boden, die
+akustisch abgestimmte Beschichtung und die Reinigbarkeits-Messung — alle drei.
+Nur nie zusammen, und nie im Pkw. Das ist keine Erfindung, sondern eine
+Zusammenführung, und genau das macht sie für einen Zulieferer glaubwürdig
+umsetzbar.
 
 **Nachweis:** Reinigbarkeit über den Prüfstand aus Idee 1, Absorption über Impedanzrohr
 oder Alpha-Kabine. Die beiden Ideen greifen ineinander – das ist ihre Stärke, und man
 kann sie auch als *eine* Idee mit zwei Hälften präsentieren, falls das Team das lieber
 möchte.
+
+---
+
+## Idee 3 – „Warme Flächen statt warmer Luft": Heizung statt Klimaanlage
+
+**Kern:** Im Robotaxi von 2035 heizt man nicht mehr die Luft, sondern die Flächen,
+die der Fahrgast berührt und anschaut. Boden und Seitenwände werden zu beheizten,
+abwischbaren, **herausnehmbaren** Paneelen.
+
+### Warum ausgerechnet im Robotaxi
+
+**Die Tür geht ständig auf.** Ein Stadtrobotaxi macht 30–40 Halte am Tag. Jeder
+Halt wirft das aufgeheizte Luftvolumen hinaus, und die Konvektionsheizung fängt
+von vorn an. Eine warme Fläche kühlt in dreissig Sekunden offener Tür nicht aus.
+Genau dieser Betriebsfall existiert im Privatwagen nicht.
+
+**Heizen ist im BEV der grösste Kältefresser.** Widerstandsheizung zieht
+**3–5 kW dauerhaft**; im Winter verlieren Elektrofahrzeuge **20–40 % Reichweite**,
+im städtischen Stop-and-go bei −18 °C bis zu **50 %**. Für ein Robotaxi ist
+Reichweite nicht Komfort, sondern das Geschäftsmodell: jede Kilowattstunde in die
+Kabine ist eine Kilowattstunde, die nicht fährt.
+
+**Strahlungsheizung kostet einen Bruchteil.** Infrarot-/Flächenheizung liefert
+Komfort bei **rund 200 W** gegenüber **etwa 4,5 kW** konvektiv. Lokale Heizung
+(Sitz plus Strahlungsfläche) senkte in einer Messung die Batterieleistung bei
+0 °C Umgebung von **2,3 kW auf etwa 0,9 kW**; Studien nennen **45–50 %**
+Einsparung an HVAC-Energie.
+
+**Und der Mensch merkt es nicht.** Mit *einer* Strahlungsquelle empfinden
+Insassen die Kabine schon bei **rund 3 °C unter** der Solltemperatur als neutral,
+mit **zwei** Quellen bei etwa **6 °C darunter**. Boden *und* Wand sind zwei
+Quellen. Man darf die Lufttemperatur also real absenken, nicht nur rechnerisch.
+
+**Ohne Fahrer stimmt die HVAC-Geometrie nicht mehr.** Klimatisierung ist heute um
+Armaturenbrett und Fahrerposition herum gebaut. In einer Lounge- oder
+Gegenüber-Bestuhlung gibt es keine definierte Blickrichtung mehr — Boden und
+Seitenwände sind aber **immer** neben jedem, egal wie die Sitze stehen. Die
+Flächenheizung ist das Layout-unabhängige Heizprinzip.
+
+### Warum eher nicht im Lastwagen
+
+Challenge A fragt nach der beheizten Matte für den „driver" — in
+Anführungszeichen, was der Fragesteller selbst schon andeutet. Wenn 2035 der Lkw
+autonom fährt, sitzt dort niemand mehr, dessen Füsse warm werden müssen.
+
+Das ist strategisch interessanter, als es klingt: **„(Heated) Floor mats" ist ein
+bestehendes Autoneum-Produkt im Nutzfahrzeugportfolio.** Autonomes Fahren ist
+damit ein Trend, der ein vorhandenes Autoneum-Produkt entwertet — genau das, was
+Challenge B mit „highlight any trends that kill the need for Autoneum products"
+verlangt. Die Antwort darauf ist nicht, das Produkt zu verteidigen, sondern die
+Kompetenz aus der schrumpfenden Lkw-Kabine in die wachsende Robotaxi-Kabine zu
+verschieben.
+
+*Ehrlich dazusagen:* ganz weg ist es nicht. Schlafkabinen, begleitete Fahrten und
+die letzte Meile werden noch Jahre Menschen an Bord haben, und eine beheizte
+Liegefläche ist ein anderer Anwendungsfall als eine beheizte Fussmatte. Das
+Produkt verschwindet nicht, es schrumpft und verschiebt sich.
+
+### Die Befestigung: MagSafe und Switch 2
+
+Das Paneel muss heraus — zum gründlichen Reinigen, zum Tauschen bei Verschleiss,
+zum Warten der Heizung. Zwei Vorbilder aus einer ganz anderen Branche, was die
+Regeln ausdrücklich einladen:
+
+- **Nintendo Switch 2** für die Mechanik: Magnete halten *und* zentrieren, ein
+  Entriegelungsknopf verhindert das versehentliche Lösen, und dieselbe Bewegung
+  stellt die mechanische *und* die elektrische Verbindung her.
+- **MagSafe** für die Energie: Leistung geht **kontaktlos durch eine geschlossene
+  Oberfläche**.
+
+**Und das ist keine Spielerei, sondern der technische Kern.** Man kann keinen
+waschbaren Boden und offenliegende Steckkontakte gleichzeitig haben — Streusalz
+und Schneematsch fressen jeden Stecker. **Kontaktlose Energieübertragung ist das,
+was „beheizt" und „abwaschbar" überhaupt erst vereinbar macht.** Nebenbei erfüllt
+sie Challenge A's Bedingung „there should be no visible cable" wörtlich.
+
+### Wie die drei Ideen zu einem Produkt werden
+
+Es sind nicht drei Vorschläge, sondern **ein Bauteil aus drei Blickwinkeln**:
+
+| Schicht | woher sie kommt | was sie beiträgt |
+|---|---|---|
+| Abwischbare Deckschicht mit abgestimmter Porosität | Alpha-Liner, Washable surface flooring | reinigbar, ohne die Akustik zu töten (Idee 2) |
+| Heizebene dahinter | „(Heated) Floor mats", Nutzfahrzeug | Komfort bei ~200 W statt ~4,5 kW (Idee 3) |
+| Magnethalterung mit kontaktloser Speisung | Unterhaltungselektronik | herausnehmbar, kein sichtbares Kabel (Idee 3) |
+| Veröffentlichte Clean Class | Carpet Cleanability Analyzer | macht es spezifizierbar und zertifizierbar (Idee 1) |
+
+Autoneum besitzt jede einzelne Zutat. Keine davon ist je mit einer anderen
+kombiniert worden, und keine ist je im Pkw gelandet.
+
+### Was noch zu prüfen ist
+
+- **Wirkungsgrad der kontaktlosen Übertragung.** Induktiv gehen typisch 10–20 %
+  verloren. Bei 200 W ist das verschmerzbar, aber es gehört gerechnet, sonst
+  frisst die Kopplung den Vorteil an.
+- **Sicherheit.** Heisse Fläche plus barfüssige oder schlafende Fahrgäste plus
+  Kinder — Temperaturbegrenzung und Fehlerabschaltung sind Pflicht, nicht Kür.
+- **Magnete und Medizintechnik**, sowie Wechselwirkung mit der
+  Batterie-Elektromagnetikabschirmung, die Autoneum selbst herstellt.
+- **Gewicht.** Heizebene plus Magnete gegen den Leichtbauanspruch aufwiegen.
+
+**Quellen zu den Zahlen:** DOE/AAA zu Winterreichweite; ScienceDirect,
+*Design and development of electric radiant heaters for local heating inside the
+cabin of electric vehicles* (2024); ScienceDirect, *Optimizing thermal comfort in
+highly automated vehicles: an AI-based HVAC management approach with radiant
+panels for winter conditions* (2026); ThermoAnalytics zu Strahlungsheizung und
+Reichweite.
 
 ---
 
@@ -137,6 +272,7 @@ nicht zwei nebeneinanderliegende Kapitel, sondern dieselbe Aussage von zwei Seit
 
 ## Nächster Schritt
 
-Beide Ideen morgen ins Team, dann eine wählen oder – empfohlen – als eine Idee mit
-Norm-Hälfte und Produkt-Hälfte zusammenziehen. Der Coaching-Slot am Dienstag
-13:00–15:00 wäre der richtige Ort, das gegenzuprüfen.
+Die drei zusammen als **ein Bauteil** präsentieren, nicht als drei Vorschläge —
+siehe die Tabelle am Ende von Idee 3. Die Zwischenpräsentation ist Mittwoch
+09:00 und wird zu 50 % auf die Idee und zu 30 % auf die Recherche bewertet;
+beides ist damit belegt.

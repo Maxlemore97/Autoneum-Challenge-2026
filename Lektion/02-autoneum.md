@@ -138,6 +138,80 @@ Vier „Trends to consider", von denen im Textextrakt nur zwei sichtbar waren:
 **Valerio Sansica**, Project Manager – Concept Development & Open Innovation
 (E-Mail auf Folie 20 des Autoneum-Decks)
 
+## Was Autoneum beim Lkw-Boden schon kann
+
+Die Nennung auf Folie 7 ist kein Nebensatz — sie steht als **erster Punkt** unter
+*Interior floor* beim Nutzfahrzeug:
+
+> Interior floor: **Washable surface flooring** · Carpet systems · Dampers
+
+Und auf Autoneums eigener Nutzfahrzeug-Seite ist Reinigbarkeit das **führende**
+Argument, nicht ein nachgeschobenes:
+
+> „…these multifunctional components also meet the increased requirements for a
+> pleasant driving experience thanks to their **outstanding cleanability**, low
+> odor and high durability."
+
+Die entsprechende Pkw-Seite führt dagegen Akustik, Haltbarkeit und Kreislauf-
+fähigkeit an — Reinigbarkeit kommt dort erst als Eigenschaft von Relive-1 vor.
+
+### Woher das Produkt kommt: Borgers
+
+Die Produktbroschüren von **2019 und 2021 erwähnen Nutzfahrzeuge mit keinem
+einzigen Wort** — beide sind reine Pkw-Kataloge. Das Nutzfahrzeuggeschäft kam
+mit **Borgers Automotive**, übernommen per 1. April 2023 für einen
+Unternehmenswert von **EUR 117 Mio.**; Spezialist für textile Akustik, Isolation
+und Trim, mit über 150 Jahren Erfahrung in der Textilverwertung. Laut Autoneum
+ergänzen „Borgers' wheel arch liner and trunk liner product lines as well as
+their truck business" das eigene Portfolio.
+
+**Das waschbare Bodensystem ist also ein zugekauftes Nutzfahrzeug-Produkt, das
+seit drei Jahren im Haus ist und nie auf die Pkw-Seite gewandert ist.**
+
+### Zwei weitere Technologien, die genau in diese Richtung zeigen
+
+**Clean-Tuft** (Pkw, getuftet) — „Easy to clean and more premium". Bietet
+„a clearly improved cleanability compared to needlepunch floor coverings":
+Kleine Partikel wie Gras, Sand oder Tierhaare lassen sich leichter und
+gründlicher entfernen, durch die **vertikale Ausrichtung der Teppichfilamente**
+und die Eigenschaften des verwendeten Polymers. Hohe Fleckenresistenz durch
+**hydrophobe** Eigenschaft. Der direkte Vorläufer von Relive-1.
+
+**Alpha-Liner** (Radhausschale, aussen) — und das ist die eigentliche
+Entdeckung. Ein leichter textiler Radhaus-Aussenliner mit einer **dünnen
+beschichteten Oberfläche** auf der Reifenseite:
+
+> „…the **porosity of the textile material is tuned to maximize the sound
+> absorption** … The **plasticized surface is also easier to clean** than
+> standard textile wheelhouse outer liners."
+
+Also: beschichtet **und** akustisch abgestimmt **und** leichter zu reinigen — in
+einem Bauteil. Dazu lösemittelfreie Fertigung, und die Beschichtung wird nur
+dort aufgetragen, wo sie wirkt, damit der Produktionsverschnitt recycelbar
+bleibt. Genau der Zielkonflikt, um den es bei unserer Idee 2 geht, ist hier
+bereits gelöst — nur aussen am Rad statt innen am Boden.
+
+## Der Carpet Cleanability Analyzer im Detail
+
+Autoneum führt ihn in der Produktbroschüre unter **Measurement Systems**, neben
+APAMAT II, ELWIS und Isokell — es ist ein produktisiertes Messsystem, kein
+Laborprovisorium.
+
+| | |
+|---|---|
+| Zweck | Auslegung von Teppichsystemen in der **Vorentwicklung** neuer Fahrzeugmodelle |
+| Verfahren | robotergeführter Saugarm mit definiertem Anpressdruck, 3 Proben pro Zyklus |
+| Lieferumfang | mitgeliefert mit **standardisierten Schmutzpartikeln** und Werkzeugen zur Probenpräparation |
+| Anwendbar auf | alle Teppichoberflächen, getuftet **und** Vlies |
+| Abmessungen | 1500 × 950 × 1800 mm; Standardprobe 180 × 620 mm |
+| Saugkopfgeschwindigkeit | 7 m/min |
+| **Ausgabe** | **Cleanability Index, Dirt Repellency Index** |
+
+**Wichtig für unsere Idee:** Die Kennzahl existiert bereits. Es geht also nicht
+darum, sie zu erfinden, sondern darum, sie aus der internen Vorentwicklung
+herauszuheben — als veröffentlichte, vom OEM spezifizierbare Klasse, und mit
+einem Schmutzkatalog, der die geteilte Nutzung abbildet statt Sand und Wollfasern.
+
 ## Für die Challenge relevante Spannungsfelder
 
 1. **Organischer Rückgang in Europa/Nordamerika** – neue Produktkategorien sind
