@@ -208,8 +208,9 @@ def audit(path, mode, limit):
                      "story", "WARN"))
 
     # ---- Recherche
-    nums = len(re.findall(r"\b\d[\d'’.,]*\s?(%|kg|km|CHF|EUR|dB|s|min|h)\b",
-                          alltext))
+    nums = len(re.findall(
+        r"\d[\d'’.,]*\s?(?:%|°C|kW|W\b|kWh|kg|km|m\b|mm|CHF|EUR|dB|"
+        r"s\b|min\b|h\b|watts?\b|percent\b)", alltext, re.I))
     out.append(check("Quantified evidence present", nums >= 5,
                      f"{nums} figures with units", "research", "WARN"))
     urls = len(re.findall(r"https?://", alltext))
