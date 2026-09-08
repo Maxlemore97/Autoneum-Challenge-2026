@@ -36,6 +36,56 @@ Autoneum ist **Zulieferer, nicht Autohersteller** (steht so auch in den Regeln).
 Der Weltmarkt wuchs 2025 um 3.7 % (S&P), getrieben von China. Europa −1.3 %,
 Nordamerika −1.0 %. Autoneum verliert also organisch und kauft Wachstum in Asien zu.
 
+## Absatzmärkte 2021–2025
+
+Umsatz je Business Group in Mio. CHF (Segmentumsatz inkl. Intersegment, wie in den
+Geschäftsberichten und Medienmitteilungen ausgewiesen):
+
+| Jahr | Europe | North America | Asia | SAMEA | Gruppe |
+|---|---:|---:|---:|---:|---:|
+| 2021 | 636.9 | **687.0** | 281.0 | 94.7 | 1'700.4 |
+| 2022 | 616.6 | **795.1** | 273.2 | 120.5 | 1'804.5 |
+| 2023 | **1'073.9** | 895.9 | 242.8 | 109.0 | 2'302.3 |
+| 2024 | **1'152.4** | 884.6 | 198.3 | 121.4 | 2'338.7 |
+| 2025 | **1'057.1** | 805.8 | 326.4 | 117.8 | 2'290.6 |
+
+| **Summe 5 Jahre** | **4,536.9** | 4,068.4 | 1,321.7 | 563.4 | |
+| Anteil | **43.2 %** | 38.8 % | 12.6 % | 5.4 % | |
+
+### Was die Zahlen sagen
+
+**Über fünf Jahre kumuliert ist Europa der grösste Absatzmarkt** (43 %
+gegenüber 39 % Nordamerika) — aber erst seit drei Jahren.
+
+**2021 und 2022 war Nordamerika grösser.** Europa lag 2022 bei 616.6 Mio. gegen
+795.1 Mio. in Nordamerika. Der Wechsel kam **nicht aus dem Markt, sondern aus
+einer Übernahme**: 2023 sprang Europa um +74.2 % auf 1'073.9 Mio., praktisch
+vollständig durch **Borgers Automotive**. Ohne diesen Zukauf wäre Nordamerika bis
+heute der grösste Markt.
+
+**Asien ist die eigentliche Bewegung.** 281.0 → 273.2 → 242.8 → 198.3: vier Jahre
+Rückgang in Folge, während der chinesische Markt wuchs — Autoneum lieferte kaum an
+chinesische Hersteller. 2025 dann der Sprung auf **326.4 Mio. (+73.9 %)**, wieder
+durch Zukäufe (Jiangsu Huanyu, Chengdu Yiqi-Sihuan). Asien ist seit 2025 grösser
+als je zuvor und der einzige wachsende Markt.
+
+**SAMEA** bleibt mit 5 % Randgeschäft, stark von Inflation und Währungen getrieben.
+
+**Für die Challenge relevant:** Der regionale Fokus Europa/Schweiz, den die Regeln
+ausdrücklich erlauben, trifft damit tatsächlich Autoneums grössten Absatzmarkt —
+aber einen, der organisch schrumpft (2025: −7.6 % in Lokalwährung) und dessen
+Spitzenposition auf einem Zukauf beruht. Ein Produkt, das im europäischen Pkw neue
+Umsätze schafft, adressiert genau die schwächste Stelle.
+
+*Vorbehalt:* Die Zahlen für 2025 stammen aus der Umsatzmitteilung vom 23. Januar
+2026; der Geschäftsbericht 2025 erscheint am 12. März 2026. Alle CHF-Werte sind
+durch die Aufwertung des Frankens nach unten verzerrt — in Lokalwährungen fielen
+die Rückgänge kleiner aus.
+
+**Quellen:** Autoneum Geschäftsbericht 2024, S. 99 (Segment Information 2024/2023);
+Geschäftsbericht 2023 (Segment Information 2023/2022); Medienmitteilungen zum
+Jahresabschluss 2022 (Zahlen 2022/2021) und zum Umsatz 2025.
+
 ## Zukäufe & Expansion
 
 - **Borgers Automotive** – übernommen per 1. April 2023 (Textilkomponenten, Deutschland)
