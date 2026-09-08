@@ -1,7 +1,12 @@
 # Drei Ideen für Challenge C – Stand 8. Sep 2026
 
-Gewählte Challenge: **C – Robotaxi / Cabin Comfort**, fokussiert auf den
-**reinigbaren Boden**.
+**Teamentscheid:** Challenge **C – Robotaxi / Cabin Comfort**, fokussiert auf den
+**reinigbaren Boden**. Alle drei Ideen unten gehören zu C.
+
+**Challenge A wurde bewusst verworfen**, weil die Aufgabe an ihrer eigenen
+Prämisse scheitert: Sie fragt nach Komfort für den „driver" eines autonomen
+Lastwagens — eine Person, die es 2035 voraussichtlich nicht mehr gibt. Die
+Begründung im Detail steht unter Idee 3, „Warum eher nicht im Lastwagen".
 
 ## Der gemeinsame Rahmen
 
@@ -186,10 +191,23 @@ verlangt. Die Antwort darauf ist nicht, das Produkt zu verteidigen, sondern die
 Kompetenz aus der schrumpfenden Lkw-Kabine in die wachsende Robotaxi-Kabine zu
 verschieben.
 
-*Ehrlich dazusagen:* ganz weg ist es nicht. Schlafkabinen, begleitete Fahrten und
-die letzte Meile werden noch Jahre Menschen an Bord haben, und eine beheizte
-Liegefläche ist ein anderer Anwendungsfall als eine beheizte Fussmatte. Das
-Produkt verschwindet nicht, es schrumpft und verschiebt sich.
+**Und es geht um viel mehr als die Matte.** Verschwindet der Fahrer, verschwindet
+der Grund für die *ganze bewohnte Kabine*. Autoneums Lkw-Innenraumportfolio —
+Headliners, Side and rear panels, Upper storage, **Bunk bed support**, Floor mats,
+Carpet systems — existiert ausschliesslich, weil dort ein Mensch sitzt, isst und
+schläft. Ein fahrerloser Lkw braucht keine Schlafkabine, sondern ein Sensorgehäuse.
+Challenge A fragt also nach einem Komfortmerkmal für jemanden, der nicht mehr da
+sein wird, während die eigentliche strategische Frage lautet, was mit dem
+kompletten Kabinen-Interieur passiert. Das ist zugleich die ehrlichste Antwort auf
+Challenge B's „trends that kill the need for Autoneum products".
+
+*Der Einwand, der kommen wird, und die Antwort darauf:* „Schlafkabinen und
+begleitete Fahrten gibt es doch noch." Stimmt — Europa ist beim fahrerlosen Lkw
+deutlich langsamer als die USA, und Modelle mit menschlicher erster und letzter
+Meile werden noch Jahre laufen. Nur ist das ein **schrumpfender** Markt mit
+sinkendem Innovationsbedarf, während die Robotaxi-Kabine ein wachsender ist. Wer
+als Zulieferer Entwicklungsbudget verteilt, steckt es nicht in das Segment, dem
+der Nutzer abhandenkommt.
 
 ### Die Befestigung: MagSafe und Switch 2
 
