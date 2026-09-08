@@ -124,11 +124,14 @@ def audit(path, mode, limit):
     n = len(S)
     alltext = " ".join(s["text"] + " " + s["notes"] for s in S)
     low = alltext.lower()
+    # the rules of the game are about what the audience SEES, so the gates look
+    # at slide text only - a year that lives in the notes was never presented
+    visible = " ".join(s["text"] for s in S).lower()
     body = [s for s in S if s["n"] not in (1, n)]      # skip title/closing
     out = []
 
     # ---- hard gates from Autoneum's "Rules of the game"
-    toks = re.findall(r"[a-zA-ZäöüßÄÖÜ]+", low)
+    toks = re.findall(r"[a-zA-ZäöüßÄÖÜ]+", visible)
     en = sum(t in EN for t in toks)
     de = sum(t in DE for t in toks)
     out.append(check("Language is English", en >= de,
@@ -136,7 +139,7 @@ def audit(path, mode, limit):
     for key, (pat, label) in GATES.items():
         if key == "english":
             continue
-        hit = re.search(pat, low, re.I)
+        hit = re.search(pat, visible, re.I)
         out.append(check(label, bool(hit),
                          f"matched '{hit.group(0)}'" if hit else "no match found",
                          "rules"))

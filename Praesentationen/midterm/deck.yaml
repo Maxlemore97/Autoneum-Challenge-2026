@@ -1,0 +1,316 @@
+meta:
+  filename: Autoneum-Midterm_Team4
+  title: Swap, do not scrub
+  subtitle: One mount, three tiers - from a city shuttle to a luxury cabin
+  authors: [Team 4]
+  event: Autoneum Challenge 2026 - Midterm
+  date: 2026-09-09
+  footer_text: Swap, do not scrub
+  time_limit_seconds: 480
+  core_message: |
+    A robotaxi floor should be swapped, not scrubbed. The same mount then takes
+    a heated skin for the journeys people pay extra for.
+  qa:
+    - q: Is a heated surface not slower than blown air?
+      a: |
+        For a cold start, yes, and we do not claim otherwise. Radiation reaches
+        the skin instantly; what takes time is the panel surface itself. That is
+        why the heating layer sits directly under the wipe-clean skin and not
+        under the absorber - little mass above it, so it responds in seconds
+        rather than minutes.
+        But the honest point is a different one. A robotaxi in service is almost
+        never in a cold start. It runs sixteen hours a day, so the panel is warm
+        the whole time - and the thermal mass that makes a surface slow to heat
+        is exactly what makes it survive a thirty-second door opening. Air loses
+        everything at every stop. The surface does not.
+    - q: Is 200 W enough to heat an interior?
+      a: |
+        No, and it is not meant to. 200 W warms the person, not two to three
+        cubic metres of air. Comfort depends on the temperature of the surfaces
+        around you as much as on air temperature, which is why warm surfaces let
+        you run the air about 3 C colder with one radiant source and 6 C colder
+        with two, at the same comfort.
+        If we claimed 200 W heats a cabin we would simply be wrong. The air
+        system stays - windscreen demisting and defrosting are legal
+        requirements, so it could not leave anyway. What we take away from it is
+        the job of keeping people comfortable.
+    - q: Why the floor and not the seat? Robotaxi interiors just look cheap today.
+      a: |
+        They look cheap because hard-wearing and premium are opposites today -
+        anything you can hose down looks like a bus. That is the same trade-off
+        as our acoustic one, on a third axis, and the wipe-clean skin breaks it:
+        the premium insert is the design layer, and it clips onto the same mount.
+        It should not stop at the floor. The same material language runs up the
+        lower side walls and into the headliner - all Autoneum parts. We do not
+        make seats, but if the surrounding surfaces set the language, the seat
+        supplier matches it. Owning the surface language of a shared cabin is a
+        larger position than owning one carpet.
+    - q: What about premium robotaxis on longer journeys?
+      a: |
+        A different cell of the matrix, and it strengthens two thirds of our
+        argument. The door-opening argument weakens - an intercity trip stops
+        rarely. But range matters more, because a long winter trip is exactly
+        where cabin heating costs you the journey. Acoustics matters far more
+        over two hours than over ten minutes. And per-seat thermal zones, which
+        are expensive with ducting and nearly free with surfaces, are a premium
+        feature.
+        Content per vehicle is also higher there: more trim, more acoustic
+        material, a headliner that matters. We built the pitch on the city case
+        because that is where the cleaning problem bites hardest - but the panel
+        travels into the premium segment without changing.
+  arc: |
+    Problem-solving structure with a turn. Setup: by 2035 one car serves two
+    owners. Problem: thirty strangers a day destroy the floor and nobody is
+    watching. Unfair fight: cleaning is the only thing that stops the vehicle
+    earning, and it takes 30 to 60 minutes. Hero: stop cleaning inside the car -
+    swap the contact layer, the way a hotel never cleans the mattress. The turn:
+    a floor you can wipe is a floor that is acoustically dead. Companion:
+    Autoneum solved exactly that on the outside of the car with Alpha-Liner.
+    Resolution: one panel, one mount, two business models - and a heated version
+    as the premium tier.
+
+theme:
+  accent: "78BE20"
+
+slides:
+
+  - layout: title
+    id: cabin
+    title: Swap, do not scrub
+    subtitle: One mount, three tiers - from a city shuttle to a luxury cabin
+    image_query: robotaxi cabin floor
+    beat: Setup
+    seconds: 25
+    notes: |
+      We are Team 4. Our challenge is cabin comfort in a robotaxi, and we went
+      at the least glamorous part of it - the floor. It turns out to be the part
+      that decides whether a shared vehicle earns money or sits in a depot.
+    transition: First, who owns this car.
+
+  - layout: two-col
+    title: By 2035 one car serves two owners
+    columns:
+      - {kicker: "Use case A", head: "Owner-operated", text: "Two hours the owner, the rest a robotaxi."}
+      - {kicker: "Use case B", head: "Fleet-operated", text: "The same car, 16 hours a day."}
+      - {kicker: "Segment", head: "C/D-segment BEV, Level 4", text: "Europe and Switzerland, short distance, city."}
+    beat: Setup
+    seconds: 30
+    notes: |
+      Two kinds of operator arriving at the same cabin. A private owner renting
+      the car out part-time, and a fleet running it sixteen hours a day. The
+      trend matrix we were shown had private and shared as separate cells - by
+      2035 they are two business models sharing one vehicle. The fleet is where
+      the volume is for a supplier - Waymo or Zoox scale, thousands of identical
+      vehicles on one specification. The private owner sets the harder
+      requirement, because he has no depot at all.
+    transition: Before the problem itself, one word on the challenge we did not pick.
+
+  - layout: statement
+    kicker: Why not the truck
+    title: The truck loses its driver, so its heated mat loses its user
+    body: The whole cab interior exists because a human sleeps in it.
+    beat: Setup
+    seconds: 35
+    notes: |
+      Challenge A asks for a heated mat for the driver of an autonomous truck.
+      The word driver is in quotation marks on that slide, and we think that is
+      the answer. If the truck drives itself, the cab interior loses its reason
+      to exist - not just the mat, but the headliners, the side panels, the bunk
+      bed support. Autonomy is a trend that kills existing Autoneum products.
+      The right response is to follow the passenger, not the driver.
+    transition: And the passenger leaves something behind.
+
+  - layout: image-full
+    id: dirtyfloor
+    title: This is what thirty strangers a day leave behind
+    body: A private car sees 2-4 people a day. A city robotaxi sees 30-40, with nobody watching.
+    image_query: ruined shared car floor
+    beat: Problem
+    seconds: 35
+    notes: |
+      Salt, sand, a spilled coffee, flattened fibres. A private car sees two to
+      four people a day. A city robotaxi sees thirty to forty, and nobody
+      supervises a driverless cabin - whoever spills something simply gets out.
+      Waymo already employs dedicated fleet handlers for this, in protective
+      equipment, because passengers have started treating robotaxis like party
+      buses. This is not a 2035 problem. It is happening now.
+    transition: And cleaning it is the expensive part.
+
+  - layout: metrics
+    id: doorstep
+    title: Cleaning is the one thing a robotaxi cannot do while earning
+    metrics:
+      - {kicker: "A basic interior clean", value: "30-60 min", text: "heavy soiling doubles or triples it"}
+      - {kicker: "Per clean", value: "USD 60-150", text: "routine, up to 500 when bad"}
+      - {kicker: "For the operator", value: "= downtime", text: "it earns only while carrying people"}
+    beat: Unfair fight
+    seconds: 40
+    notes: |
+      A basic interior clean takes thirty to sixty minutes, and heavy soiling
+      doubles or triples that. These are detailing-trade figures, not an
+      automotive study - we flag that honestly - but the direction is not in
+      doubt. For a fleet the money is not really the cleaning bill, it is the
+      hour the vehicle spends not carrying anyone. Uptime is the entire product.
+      And the private owner has it worse: no depot, no crew, just his garage on
+      a Sunday.
+    transition: One industry solved this a century ago.
+
+  - layout: statement
+    kicker: Learning from another industry
+    title: A luxury hotel never cleans the mattress
+    body: It cleans the layer above it. Each layer has one job, and the one that touches the guest is replaced every time.
+    beat: Hero
+    seconds: 35
+    notes: |
+      Hotels do not deep-clean a room between guests, they change the contact
+      layer. Mattress protector, sheet, duvet cover - each layer has one job,
+      and the expensive core underneath is protected and almost never washed.
+      Housekeeping is measured in minutes because of it. That is the whole idea
+      we are proposing, applied to a vehicle floor: stop cleaning the car, and
+      change the layer that got dirty.
+    transition: So this is what we build.
+
+  - layout: image-right
+    id: swap
+    video: assets/07-swap-lift-out.mp4
+    image_query: clip-in floor mat lifted out
+    image_prompt: "One hand lifting a car floor mat away effortlessly by a single corner, the mat tilted up about forty degrees so its underside is clearly visible. On that underside four circular magnet pads, one at each corner, matte dark metal, set flush into the panel. On the vehicle floor directly below, four identical circular pads in exactly matching positions, still aligned with the ones above. A clean air gap of a few centimetres between the two surfaces, the mat floating parallel as it separates. Absolutely no screws, clips, hooks, velcro, cables, plugs or connectors anywhere in the frame"
+    image_style: "technical product photography, bright even studio light, shallow depth of field on the magnet pads, muted colour palette, no text, no watermark, no logos"
+    image_role: must read instantly as magnetic quick-swap, not as a mat being pulled up
+    title: A floor that swaps in seconds and is cleaned off the vehicle
+    lead: The mat becomes a serviceable part.
+    bullets:
+      - text: "Wipe-clean skin, mono-material PET"
+        detail: "No fibres to hold dirt"
+      - text: "Magnetic mount, no visible fasteners"
+        detail: "Out in seconds, no tools"
+      - text: "Cleaned off the vehicle"
+        detail: "The car goes back out, the panel is washed"
+    beat: Hero
+    seconds: 40
+    notes: |
+      The mat becomes a serviceable part instead of trim glued into the car. A
+      wipe-clean mono-material skin so there are no fibres to trap salt and
+      sand. A magnetic mount with no visible fasteners, so it lifts out in
+      seconds without tools and there is nothing exposed for road salt to eat.
+      And the important bit - the cleaning happens away from the vehicle. The
+      car leaves the depot with a fresh panel while the dirty one is washed.
+    transition: There is one problem with a floor you can wipe.
+
+  - layout: statement
+    kicker: The harder problem
+    title: A floor you can wipe is a floor that is acoustically dead
+    body: Absorption needs an open, porous surface. Cleaning wants a closed one. Today you pick one.
+    beat: The turn
+    seconds: 35
+    notes: |
+      Here is where the idea nearly died. An acoustic floor has to be open and
+      porous so sound can get in and be absorbed. A cleanable floor wants to be
+      closed so nothing gets in. Today you choose - a carpet that absorbs and
+      stains, or a rubber mat that wipes and is loud. In a battery-electric
+      robotaxi without engine noise that is worse, because road and wind noise
+      are all that is left.
+    transition: Autoneum has already won that fight - outside the car.
+
+  - layout: table
+    title: Autoneum has already solved all of it, just never in the same part
+    head: ["We need", "Autoneum has", "Where it sits"]
+    rows:
+      - ["Washable floor", "Washable surface flooring", "Trucks (Borgers, 2023)"]
+      - ["Wipeable yet acoustic", "Alpha-Liner", "Wheelhouse, outside"]
+      - ["Absorb through a closed skin", "RIMIC micro-perforation", "Heatshields"]
+      - ["Cleanability metric", "Cleanability Analyzer", "Internal lab"]
+      - ["Heating layer", "(Heated) Floor mats", "Trucks"]
+    beat: Companion
+    seconds: 50
+    notes: |
+      This is the core of our research. Every ingredient exists inside Autoneum
+      today. Washable surface flooring is a truck product that came in with the
+      Borgers acquisition in 2023. Alpha-Liner is a wheelhouse liner whose
+      coating is tuned so the textile still absorbs sound while the surface
+      wipes clean - our exact conflict, already solved, just on the outside of
+      the car. RIMIC proves you can absorb through a closed skin. And Autoneum
+      even owns the measurement: the Carpet Cleanability Analyzer outputs a
+      cleanability index today. None of these has ever been combined, and none
+      has ever been offered in a passenger car.
+    transition: Put them in one part and you get this.
+
+  - layout: bullets
+    title: One panel, three layers, every one of them in-house
+    bullets:
+      - text: "Wipe-clean skin, micro-perforated"
+        detail: "Liquid beads off, sound passes through"
+      - text: "Absorber"
+        detail: "Hybrid-Acoustics PET, the acoustics"
+      - text: "Magnetic mount"
+        detail: "No contacts, no cable, lifts out"
+    beat: Resolution
+    seconds: 35
+    notes: |
+      The micro-perforation is the trick, and it is Autoneum's own: RIMIC
+      heatshields are closed aluminium that still absorbs, because a tuned
+      perforation turns airborne sound into heat. We take that principle inside
+      and put it in a closed, hydrophobic skin over the absorber. Liquid beads
+      off the top. Sound goes through the holes and into the absorber below.
+    transition: And the mount pays off twice.
+
+  - layout: two-col
+    title: One mount, three tiers
+    lead: Each tier adds to the one below. Same interface all the way up.
+    columns:
+      - {kicker: "1 - Short distance", head: "Swap and wipe", text: "Out in seconds, cleaned off the vehicle."}
+      - {kicker: "2 - Medium distance", head: "Quiet and premium", text: "Perforated skin over the absorber. And it looks designed."}
+      - {kicker: "3 - Long distance", head: "Warm", text: "Heating tracks under the skin. Feel at home."}
+    beat: Resolution
+    seconds: 45
+    notes: |
+      This is the product line, and it maps onto the distance axis of the trend
+      matrix we were shown. Tier one is the city shuttle: it only has to come
+      out fast and wipe clean. Tier two adds what a longer ride notices -
+      acoustics, because ten minutes of road noise is tolerable and an hour is
+      not, and a surface that actually looks designed, because shared interiors
+      today look cheap for exactly one reason: hard-wearing and premium are
+      opposites today. Tier three adds the heating.
+      One interface carries all three, which is what makes it a platform rather
+      than three products. The fleet buys tier one by the thousand because
+      cleaning is downtime; the private owner clips a tier-two skin on for his
+      own weekend; tier three goes into the cabins people pay extra for.
+    transition: And that top tier is worth looking at.
+
+  - layout: image-full
+    id: lounge
+    title: The warm version is for the journeys people pay extra for
+    body: Around 200 W instead of 4,500 - and winter costs an EV 20-40 % of its range. Feel at home.
+    image_query: driverless lounge interior
+    beat: One more thing
+    seconds: 40
+    notes: |
+      The same mount takes a heated skin, and that is where the premium tier
+      sits. Two ends of one market: a Waymo or Zoox fleet buys the base panel by
+      the thousand because cleaning is downtime, and a Rolls-Royce-class cabin
+      buys the heated one because the customer pays for arriving warm. Long
+      distance, premium service, the feel-at-home cabin. Radiant
+      surfaces deliver comfort at around two hundred watts where blown air needs
+      about four and a half kilowatts, and with warm floor and walls people feel
+      neutral about six degrees below the set air temperature. Be careful with
+      the claim: this does not heat the cabin, and the air system stays because
+      demisting the windscreen is a legal requirement. It heats the person. On a
+      two-hour winter trip that is the difference between arriving comfortable
+      and arriving with a flat battery.
+    transition: Here is what we will have proved by Friday.
+
+  - layout: closing
+    title: What we will prove by Friday
+    bullets:
+      - "Swap time - panel out, panel in, on a stopwatch"
+      - "Cleanability - our skin against a carpet, on Autoneum's index"
+      - "Absorption - through a perforated skin"
+    body: "Sources: Autoneum brochure 2021, challenge deck 2026; DOE and AAA on winter EV range; ScienceDirect 2024/2026 on radiant heating; trade press on fleet operations."
+    beat: Close
+    seconds: 35
+    notes: |
+      Three measurements, not three slides. The one we want on stage on Friday
+      is the swap - a stopwatch, a dirty panel out, a clean one in. The open
+      question we already know about is what the heating layer costs the
+      acoustics, because anything we add between the skin and the absorber is in
+      the sound path. Thank you.

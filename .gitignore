@@ -1,16 +1,22 @@
-# Urheberrechtlich geschütztes Material – NICHT veröffentlichen.
-# Die Handbuch-PDFs stammen aus der Beck eLibrary (Inlibra) und tragen auf jeder
-# Seite einen personenbezogenen Wasserzeichen-Vermerk mit IP-Adresse und Zugriffszeit.
-Material/
-
-# Personenbezogene Daten Dritter (Klassenliste, Arbeiten anderer Studierender)
-Lektion/00-organisation.md
-Lektion/03-beispiel-praesentation.md
-Lektion/theorie.md
-
-# System
-.DS_Store
 .idea/
+.DS_Store
 
-# Praesentationen vorerst lokal (siehe Hinweis zum oeffentlichen Repo)
-Praesentationen/
+# Urheberrechtlich geschützt — NICHT veröffentlichen.
+# Die Handbuch-PDFs stammen aus der Beck eLibrary (Inlibra) und tragen auf jeder
+# Seite ein personenbezogenes Wasserzeichen mit IP-Adresse und Zugriffszeit.
+Material/Buecher/
+
+# Fremdes Material: Foliensätze von Autoneum und vom Dozenten
+Material/Autoneum-Challenge/
+Material/Kursunterlagen/
+
+# Klassenliste mit Klarnamen
+Material/Miro/
+Lektion/00-organisation.md
+
+# Arbeit anderer Studierender
+Material/Beispiel-Praesentation/
+Lektion/03-beispiel-praesentation.md
+
+# Abgeleitete Vorschaubilder — jederzeit neu erzeugbar
+Praesentationen/*/preview/
