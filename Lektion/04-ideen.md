@@ -12,9 +12,17 @@ Begründung im Abschnitt „Warum eher nicht im Lastwagen".
 ## Der Rahmen
 
 **Use Case & Fahrzeugsegment** (von den Regeln ausdrücklich verlangt):
-Privat gekauftes Level-4/5-Fahrzeug, C-/D-Segment, Europa/Schweiz, 2035.
-Der Halter fährt es ~2 h am Tag selbst und vermietet es die restliche Zeit in eine
-Robotaxi-Flotte. Kurzstrecke, städtisch.
+Level-4-BEV im C-/D-Segment, Europa/Schweiz, 2035, Kurzstrecke und städtisch —
+in **zwei Betreibermodellen**:
+
+- **Halterbetrieb:** Der Besitzer fährt ~2 h am Tag selbst und vermietet das
+  Fahrzeug die restliche Zeit in eine Robotaxi-Flotte.
+- **Flottenbetrieb:** Ein Betreiber lässt dasselbe Fahrzeug 16 h am Tag laufen.
+
+Beide landen bei derselben Kabine, aber mit unterschiedlichem Druck. **Die Flotte
+ist für einen Zulieferer der relevantere Kunde**, weil dort die Stückzahlen und
+das Lastenheft entstehen. **Der Halter stellt die härtere Anforderung**, weil er
+kein Depot hat.
 
 **Der Aufhänger:** Die 2×2-Matrix des Dozenten (Private/Shared × Short/Long) hat für
 genau diesen Fall **keine Zelle**. „Private" und „Shared" sind dort Alternativen –
@@ -33,9 +41,10 @@ wir stossen, und es ist eine Lücke in seiner eigenen Folie.
 4. **10× mehr Schuhe.** Ein Privatwagen sieht 2–4 Personen am Tag, ein geteiltes
    Fahrzeug in der Stadt eher 30–40. Der Boden ist die Fläche, die *jede* dieser
    Personen zwingend berührt.
-5. **Der Halter putzt selbst.** Kein Flottendepot, keine Industriewaschanlage —
-   die Garage zuhause, fünf Minuten. Ein völlig anderes Lastenheft als bei einer
-   OEM-eigenen Flotte.
+5. **Reinigung kostet beide, auf verschiedene Weise.** Der Halter hat gar kein
+   Depot — Garage, Handstaubsauger, fünf Minuten. Die Flotte hat ein Depot, aber
+   jede Minute Reinigung ist eine Minute ohne Umsatz. Beide brauchen dieselbe
+   Eigenschaft: die Fläche muss schnell wieder einsatzbereit sein.
 6. **Es ist Autoneums Bauteil.** Innenraumboden und Seitenverkleidung sind
    Kernportfolio — wir erfinden nichts Fachfremdes.
 
@@ -137,18 +146,25 @@ was „beheizt" und „abwaschbar" überhaupt erst vereinbar macht.** Sie erfül
 nebenbei wörtlich die Bedingung „there should be no visible cable" aus einer
 Challenge, die wir gar nicht bearbeiten.
 
-### Zwei Häute auf einer Halterung
+### Eine Halterung, zwei Geschäftsmodelle
 
-Dieselbe Magnethalterung trägt zwei Oberflächen, und das löst den psychologischen
-Konflikt des Halters — er will, dass sich sein Auto wie *seins* anfühlt, obwohl
-Fremde darin sitzen:
+Dieselbe Magnethalterung beantwortet zwei völlig verschiedene Probleme — und das
+ist der Grund, warum sich das Bauteil an beide Kundengruppen verkaufen lässt.
 
-- **Privatmodus:** eine hochwertige Di-Light- oder Relive-1-Einlage klipst auf.
-- **Taximodus:** Einlage ab, darunter liegt die beheizte, abwischbare Fläche.
+**Halterbetrieb — zwei Häute, ein Handgriff.** Der Konflikt des Halters ist
+psychologisch: Er will, dass sich sein Auto wie *seins* anfühlt, obwohl Fremde
+darin sitzen. Im Privatmodus klipst eine hochwertige Di-Light- oder
+Relive-1-Einlage auf; im Taximodus kommt sie ab und darunter liegt die beheizte,
+abwischbare Fläche.
 
-Ein Grundpaneel, zwei Persönlichkeiten, ein Handgriff. Und weil die Einlage
-einzeln tauschbar ist, wird bei Verschleiss nicht der ganze Boden entsorgt —
-das ist die Kreislaufantwort auf Autoneums eigenen Sustainability-Trend.
+**Flottenbetrieb — tauschen statt schrubben.** Der Konflikt der Flotte ist
+arithmetisch: Reinigung ist Stillstand, und Stillstand ist entgangener Umsatz. Im
+Depot wird das ganze Paneel gezogen, ein sauberes eingesetzt, das Fahrzeug fährt
+weiter. Geputzt wird abseits der Einsatzzeit. Genau dafür ist eine kontaktlose,
+werkzeuglose Halterung gebaut.
+
+Und weil die Deckhaut einzeln tauschbar ist, wird bei Verschleiss nicht der ganze
+Boden entsorgt — die Kreislaufantwort auf Autoneums eigenen Sustainability-Trend.
 
 ### Warum eher nicht im Lastwagen
 
