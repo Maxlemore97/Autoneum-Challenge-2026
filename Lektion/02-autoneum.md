@@ -67,6 +67,77 @@ Nordamerika −1.0 %. Autoneum verliert also organisch und kauft Wachstum in Asi
   kombinierbar mit RIMIC.
 - **Autoneum Pure** – Nachhaltigkeitslabel über das Portfolio.
 
+## Produktportfolio – direkt aus dem Autoneum-Deck (Folien 6–8)
+
+Autoneum trennt sauber zwischen **Light Vehicles** und **Commercial Vehicles**.
+Diese Trennung ist für unsere Idee der entscheidende Punkt.
+
+### Light vehicles (Folie 6)
+
+| Bereich | Komponenten |
+|---|---|
+| Engine bay | Frunk · Engine\* und E-Motor-Kapselungen · Outer dashes · Hoodliners · Engine top covers\* |
+| Underbody | Underbody shields · Under battery shields · Wheelhouse outer liners · Outer tunnel insulators\* · Heatshields\* · Battery electromagnetic shields · Outer floor insulators · Outer trunk floor insulators |
+| Interior trim | Trunk side trim · Trunk load floors · Trunk tailgate trim · Parcel shelves · Trunk floor carpets · Trunk floor trim · **Floor mats** · Backseat trim |
+| **Interior floor** | Inner dashes · **Needlepunch carpets** · **Tufted carpets** · Floor insulators · Inner wheelhouse insulators · Inner trunk floor insulators |
+
+### Commercial vehicles (Folie 7)
+
+| Bereich | Komponenten |
+|---|---|
+| Engine bay | E-Motor- und Nebenaggregat-Kapselungen · Motor- und Getriebekapselungen\* · Noise shields |
+| Underbody | Under engine shields · Heatshields\* |
+| Interior trim | Headliners · Side and rear panels · **(Heated) Floor mats** · Upper storage · Bunk bed support |
+| **Interior floor** | **Washable surface flooring** · Carpet systems · Dampers |
+
+\* nur für Fahrzeuge mit Verbrennungsmotor
+
+### ⚠️ Der Befund, auf dem unsere Idee steht
+
+**„Washable surface flooring" steht im Nutzfahrzeug-Portfolio – im Pkw-Portfolio nicht.**
+Beim Pkw gibt es nur Needlepunch- und Tufted-Teppiche. Autoneum kann abwaschbare Böden
+also bereits bauen, nur eben für Lkw und Busse.
+
+Das privat gehaltene Fahrzeug, das zeitweise als Robotaxi fährt, ist genau der Pkw, der
+Nutzfahrzeug-Anforderungen bekommt. Unsere Idee ist damit kein Wunschdenken, sondern ein
+**Portfolio-Transfer zwischen zwei eigenen Segmenten** – der günstigste Innovationstyp,
+den es gibt, und gleichzeitig eine Antwort auf die „identify gaps in our product
+portfolio"-Frage aus Challenge B.
+
+Zweiter Befund: **„(Heated) Floor mats"** existieren ebenfalls nur beim Nutzfahrzeug.
+Challenge A (beheizte Matte im autonomen Lkw) fragt also nach der Kombination von zwei
+Dingen, die Autoneum bereits hat.
+
+## Zahlen aus „Did you know…?" (Folie 9)
+
+- Autoneum steckt in **10 von 10** meistverkauften Fahrzeugmodellen in Deutschland
+- **Jedes 4. weltweit produzierte Auto** enthält Autoneum-Komponenten
+- Belieferung von **über 40 Elektrofahrzeug-Modellen in China**
+- Pro Stunde produzierte Ultra-Silent-Faserlänge: **750'000 km** – Mond und zurück
+- Ein Frunk aus Ultra-Silent verbraucht **60 recycelte PET-Flaschen**
+- **Acoustic Garage**: Konfigurator mit einer Milliarde Kombinationen für das ideale
+  Schallschutzpaket
+- Präsenz in **25 Ländern**; Schweizer Standorte: Winterthur (HQ) und Sevelen
+- **100 % Automotive**, börsenkotiert an der SIX
+
+## Vorgegebene Trends (Autoneum-Folien 15–18)
+
+Vier „Trends to consider", von denen im Textextrakt nur zwei sichtbar waren:
+
+1. **Sustainability** – Gegenüberstellung *Linear Economy* (take → make → dispose)
+   gegen *Circular Economy* (resources → manufacturing → consumption & use → recycling
+   → regenerative practices)
+2. **Different Use Cases** – die 2×2-Matrix Private/Shared × Short/Long distance
+3. **Generational change**
+4. **VUCA world** – Volatility (chinesische OEMs), Uncertainty (Zölle, Kriege),
+   Complexity (ICE, BEV, Hybrid, Wasserstoff parallel), Ambiguity (Akzeptanz autonomer
+   Fahrzeuge)
+
+## Ansprechpartner
+
+**Valerio Sansica**, Project Manager – Concept Development & Open Innovation
+(E-Mail auf Folie 20 des Autoneum-Decks)
+
 ## Für die Challenge relevante Spannungsfelder
 
 1. **Organischer Rückgang in Europa/Nordamerika** – neue Produktkategorien sind

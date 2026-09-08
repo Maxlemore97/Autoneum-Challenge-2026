@@ -12,6 +12,8 @@ vermietet werden.
 |---|---|
 | [`Lektion/01-challenges-und-regeln.md`](Lektion/01-challenges-und-regeln.md) | Die drei Challenge-Fragen, die Regeln und die vorgegebenen Trends |
 | [`Lektion/02-autoneum.md`](Lektion/02-autoneum.md) | Firmenprofil Autoneum: Zahlen, Technologien, strategische Spannungsfelder |
+| [`Lektion/06-bewertung-und-fahrplan.md`](Lektion/06-bewertung-und-fahrplan.md) | Wochenfahrplan, Bewertungsraster, Notengewichte |
+| [`Lektion/07-storytelling.md`](Lektion/07-storytelling.md) | Anforderungen an die Präsentation (Storytelling-Vorlesung) |
 | [`Lektion/04-ideen.md`](Lektion/04-ideen.md) | Zwei Ideen: „Clean Class" und „Wipe-Through Floor", plus Biomimicry-Anschluss |
 | [`Lektion/05-methodenplan.md`](Lektion/05-methodenplan.md) | Methodenwahl nach „Das grosse Handbuch Innovation" |
 | [`Lektion/quellen-handbuch-innovation.md`](Lektion/quellen-handbuch-innovation.md) | Quellenlage zum Methodenhandbuch |
