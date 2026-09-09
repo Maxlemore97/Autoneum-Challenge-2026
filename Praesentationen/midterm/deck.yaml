@@ -10,6 +10,19 @@ meta:
   core_message: |
     A robotaxi floor should be swapped, not scrubbed. The same mount then takes
     a heated skin for the journeys people pay extra for.
+  references:
+    - {key: "Autoneum deck 2026", cite: "V. Sansica, The Autoneum Challenge, ZHAW TAF, 7 Sep 2026 - product portfolio slides 6-7 (light vs commercial vehicles), rules of the game slide 14"}
+    - {key: "Autoneum brochure 2021", cite: "Autoneum, Product portfolio - Interior, Exterior, New Mobility, Autoneum Pure, Measurement Systems (July 2021): Alpha-Liner, RIMIC, Theta-Cell, Di-Light, Relive-1, Carpet Cleanability Analyzer"}
+    - {key: "Autoneum FY2025", cite: "Autoneum, Autoneum reports solid revenue, achieves strong EBIT margin of well above 5 percent in fiscal year 2025, media release 23 Jan 2026 - revenue by Business Group"}
+    - {key: "Autoneum AR 2024", cite: "Autoneum Annual Report 2024, Segment Information p. 99; Annual Report 2023 - Business Group revenue 2022-2024"}
+    - {key: "Borgers 2023", cite: "Autoneum, media release on the acquisition of Borgers Automotive, effective 1 Apr 2023, enterprise value EUR 117 m"}
+    - {key: "Goldman Sachs 2026", cite: "Goldman Sachs Research, Robotaxis Are Forecast to Become a $400 Billion Market in 2035, 30 Apr 2026 - fleet ~7,000 (2024) to ~6 m (2035)"}
+    - {key: "Waymo ridership", cite: "TechCrunch, Waymo's skyrocketing ridership in one chart, 27 Mar 2026 (~500k paid rides/week); CNBC, Waymo crosses 450,000 weekly paid rides, 8 Dec 2025; fleet ~3,000-3,700 vehicles"}
+    - {key: "AAA 2019", cite: "AAA, Cold weather reduces electric vehicle range, Feb 2019 - range -41 % at 20 F / -7 C with heating on, -12 % without HVAC"}
+    - {key: "US DOE 2024", cite: "US DOE Vehicle Technologies Office, Program Record: Impact of Cold Ambient Temperature on BEV Performance, 12 Sep 2024"}
+    - {key: "Radiant heaters 2024", cite: "Applied Thermal Engineering (ScienceDirect), Design and development of electric radiant heaters for local heating inside the cabin of electric vehicles, 2024 - ~200 W radiant vs ~4.5 kW convective; battery draw 2.3 to 0.9 kW at 0 C"}
+    - {key: "Radiant panels AV 2026", cite: "Energy and Buildings (ScienceDirect), Optimizing thermal comfort in highly automated vehicles: an AI-based HVAC management approach with radiant panels for winter conditions, 2026 - neutral comfort ~3 C below setpoint with one radiant source, ~6 C with two"}
+    - {key: "Cleaning cost", cite: "Consumer detailing trade estimates (tech9autorepair, dbdautodetailing), 2025: basic interior clean 30-60 min, USD 60-150, heavy soiling 2-3x - not an automotive study; press reporting on Waymo fleet handlers and PPE, 2025"}
   qa:
     - q: Is a heated surface not slower than blown air?
       a: |
@@ -91,8 +104,9 @@ slides:
     title: By 2035 one car serves two owners
     columns:
       - {kicker: "Use case A", head: "Owner-operated", text: "Two hours the owner, the rest a robotaxi."}
-      - {kicker: "Use case B", head: "Fleet-operated", text: "The same car, 16 hours a day."}
-      - {kicker: "Segment", head: "C/D-segment BEV, Level 4", text: "Europe and Switzerland, short distance, city."}
+      - {kicker: "Use case B", head: "Fleet-operated", text: "The same car, 16 hours a day. Six million of them by 2035."}
+      - {kicker: "Segment", head: "C/D-segment BEV, Level 4", text: "Europe and Switzerland, city. Autoneum's largest market, 46 % of revenue."}
+    cite: "Goldman Sachs, Robotaxis to become a $400 bn market in 2035 (Apr 2026); Autoneum FY2025 revenue release (Jan 2026)"
     beat: Setup
     seconds: 30
     notes: |
@@ -100,8 +114,11 @@ slides:
       the car out part-time, and a fleet running it sixteen hours a day. The
       trend matrix we were shown had private and shared as separate cells - by
       2035 they are two business models sharing one vehicle. The fleet is where
-      the volume is for a supplier - Waymo or Zoox scale, thousands of identical
-      vehicles on one specification. The private owner sets the harder
+      the volume is for a supplier: Goldman Sachs expects the global robotaxi
+      fleet to grow from about seven thousand vehicles in 2024 to six million in
+      2035 - thousands of identical vehicles on one specification. And Europe is
+      not a side market for Autoneum, it is the largest one: forty-six percent of
+      revenue, and shrinking organically. The private owner sets the harder
       requirement, because he has no depot at all.
     transition: Before the problem itself, one word on the challenge we did not pick.
 
@@ -122,15 +139,18 @@ slides:
 
   - layout: image-full
     id: dirtyfloor
-    title: This is what thirty strangers a day leave behind
-    body: A private car sees 2-4 people a day. A city robotaxi sees 30-40, with nobody watching.
+    title: This is what twenty strangers a day leave behind
+    body: A private car carries 2-4 people a day. A Waymo does 20+ paid rides, with nobody watching.
+    cite: "Waymo, ~500,000 paid rides a week on ~3,000-3,700 vehicles (TechCrunch, CNBC, Dec 2025 - Mar 2026)"
     image_query: ruined shared car floor
     beat: Problem
     seconds: 35
     notes: |
-      Salt, sand, a spilled coffee, flattened fibres. A private car sees two to
-      four people a day. A city robotaxi sees thirty to forty, and nobody
-      supervises a driverless cabin - whoever spills something simply gets out.
+      Salt, sand, a spilled coffee, flattened fibres. A private car carries two
+      to four people a day. Waymo runs about half a million paid rides a week on
+      three to four thousand vehicles - that is twenty-plus rides per car per day,
+      each one a stranger. And nobody supervises a driverless cabin - whoever
+      spills something simply gets out.
       Waymo already employs dedicated fleet handlers for this, in protective
       equipment, because passengers have started treating robotaxis like party
       buses. This is not a 2035 problem. It is happening now.
@@ -143,6 +163,7 @@ slides:
       - {kicker: "A basic interior clean", value: "30-60 min", text: "heavy soiling doubles or triples it"}
       - {kicker: "Per clean", value: "USD 60-150", text: "routine, up to 500 when bad"}
       - {kicker: "For the operator", value: "= downtime", text: "it earns only while carrying people"}
+    cite: "Consumer detailing trade estimates, 2025 (not an automotive study); press reporting on Waymo fleet handlers"
     beat: Unfair fight
     seconds: 40
     notes: |
@@ -221,6 +242,7 @@ slides:
       - ["Absorb through a closed skin", "RIMIC micro-perforation", "Heatshields"]
       - ["Cleanability metric", "Cleanability Analyzer", "Internal lab"]
       - ["Heating layer", "(Heated) Floor mats", "Trucks"]
+    cite: "Autoneum Challenge deck, 7 Sep 2026, slides 6-7; Autoneum product brochure 2021; Autoneum press release on Borgers, Apr 2023"
     beat: Companion
     seconds: 50
     notes: |
@@ -281,6 +303,7 @@ slides:
     id: lounge
     title: The warm version is for the journeys people pay extra for
     body: Around 200 W instead of 4,500 - and winter costs an EV 20-40 % of its range. Feel at home.
+    cite: "Applied Thermal Engineering 2024; Energy and Buildings 2026; AAA EV range test 2019 (-41 % at -7 C with heating); US DOE VTO 2024"
     image_query: driverless lounge interior
     beat: One more thing
     seconds: 40
@@ -305,7 +328,7 @@ slides:
       - "Swap time - panel out, panel in, on a stopwatch"
       - "Cleanability - our skin against a carpet, on Autoneum's index"
       - "Absorption - through a perforated skin"
-    body: "Sources: Autoneum brochure 2021, challenge deck 2026; DOE and AAA on winter EV range; ScienceDirect 2024/2026 on radiant heating; trade press on fleet operations."
+    body: "Sources: Autoneum challenge deck 2026, product brochure 2021, FY2025 release, Borgers release 2023; Goldman Sachs 2026; TechCrunch and CNBC on Waymo; AAA 2019, US DOE 2024; Applied Thermal Engineering 2024, Energy and Buildings 2026. Full references in the presenter script."
     beat: Close
     seconds: 35
     notes: |

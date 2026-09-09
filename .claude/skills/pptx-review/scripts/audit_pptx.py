@@ -51,6 +51,7 @@ def collect(prs):
         pics, pic_area, bullets = 0, 0, 0
         title, title_box = None, None
         cands = []
+        has_source = False
         foot_y = prs.slide_height - 685800          # bottom 0.75"
         for sh in s.shapes:
             if sh.shape_type == MSO_SHAPE_TYPE.PICTURE:
@@ -60,6 +61,9 @@ def collect(prs):
             t = shape_text(sh)
             if not t.strip():
                 continue
+            if (sh.name or "").lower() == "source" or t.strip().startswith("Source:"):
+                has_source = True
+                continue                    # a footnote is not slide content
             if (sh.name or "").lower() == "footer" or \
                (sh.top is not None and sh.top >= foot_y):
                 continue                    # page numbers are not content
@@ -109,6 +113,7 @@ def collect(prs):
             "bullets": bullets, "fonts": sorted(fonts), "colors": sorted(colors),
             "min_size": min(sizes) if sizes else None,
             "notes": notes, "note_words": len(re.findall(r"\S+", notes)),
+            "has_source": has_source,
         })
     return slides
 
@@ -221,6 +226,14 @@ def audit(path, mode, limit):
                      bool(re.search(r"\bsources?\b|\bquellen?\b", low)),
                      f"{urls} URL(s), source list "
                      f"{'present' if re.search(r'sources?|quellen?', low) else 'absent'}",
+                     "research", "WARN"))
+
+    num_slides = [s["n"] for s in S
+                  if re.search(r"\d[\d'’.,]*\s?(%|°C|kW|W\b|min\b|USD|CHF|EUR|km|m\b)", s["text"])]
+    unsourced = [n for n in num_slides if not S[n-1]["has_source"] and n not in (1, len(S))]
+    out.append(check("Every slide with a figure names its source", not unsourced,
+                     f"figures without a source line on slides {unsourced}" if unsourced
+                     else f"{sum(1 for s in S if s['has_source'])} slides carry a source line",
                      "research", "WARN"))
 
     weights = ({"idea": 50, "research": 30, "design": 20} if mode == "midterm"
