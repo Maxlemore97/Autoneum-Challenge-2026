@@ -101,6 +101,11 @@ slides:
     transition: First, who owns this car.
 
   - layout: two-col
+    id: ghostcar
+    image_query: ghost car floor panel highlighted
+    image_prompt: "One modern compact electric car rendered as a translucent white ghost body with fine light-grey edge lines, semi-transparent so the interior is visible, three-quarter front-left angle from slightly above, small in the frame with generous white space left and right. Inside, the interior floor panel is rendered as a solid opaque bright lime-green component clearly visible through the body, and the lower door and side-wall panels in solid mid-blue; everything else stays ghosted. Generic car with no brand identity, no people"
+    image_style: "clean vector-like technical rendering in the visual language of an automotive supplier product map, flat solid colours, even lighting, plain white background, no text, no numbers, no labels, no badges, no logos, no watermark"
+    image_role: places our part in the car the way Autoneum draws its own portfolio slides
     title: By 2035 one car serves two owners
     columns:
       - {kicker: "Use case A", head: "Owner-operated", text: "Two hours the owner, the rest a robotaxi."}
@@ -257,7 +262,12 @@ slides:
       has ever been offered in a passenger car.
     transition: Put them in one part and you get this.
 
-  - layout: bullets
+  - layout: image-right
+    id: dock
+    image_query: mat docking exploded view
+    image_prompt: "Clean technical product illustration of a single dark textured car floor mat, alone, seen at a three-quarter angle from slightly above, lying flat on a plain light grey studio surface. On the middle of one short edge a small flat rounded-rectangle magnetic port set flush into the mat's edge. A slim cable with a flat magnetic plug, like a laptop's magnetic charging connector, hovers one centimetre from the port, perfectly aligned, the instant before it snaps on; a tiny indicator light on the plug glows softly. The cable leads off frame. Nothing else in the picture: no car, no floor, no hands, no screws, clips or sockets. Soft shadow under the mat"
+    image_role: shows the power connection in one glance - a magnetic breakaway plug snapping onto the mat's edge
+    image_style: "technical product illustration, clean CAD-render look, even soft lighting, muted colours with one accent, no text, no labels, no arrows with words, no logos, no watermark"
     title: One panel, three layers, every one of them in-house
     bullets:
       - text: "Wipe-clean skin, micro-perforated"
@@ -277,6 +287,11 @@ slides:
     transition: And the mount pays off twice.
 
   - layout: two-col
+    id: tiers
+    image_query: three ghost cars tiers
+    image_prompt: "Three identical modern compact electric cars side by side in a row, each rendered as a translucent white ghost body with fine light-grey edge lines, semi-transparent so the interior floor is visible, same three-quarter front angle from slightly above, evenly spaced, filling the width. Left car: only the interior floor panel rendered as a solid opaque bright lime-green component, everything else ghosted. Middle car: the floor panel plus the lower door and side-wall trim panels in solid lime green. Right car: the same floor and side-wall panels in lime green, now radiating a soft warm orange glow into the cabin. Generic car with no brand identity, no people"
+    image_style: "clean vector-like technical rendering in the visual language of an automotive supplier product map, flat solid colours, even lighting, plain white background, no text, no numbers, no labels, no badges, no logos, no watermark"
+    image_role: the three tiers as Autoneum draws its own portfolio - ghost body, coloured part
     title: One mount, three tiers
     lead: Each tier adds to the one below. Same interface all the way up.
     columns:

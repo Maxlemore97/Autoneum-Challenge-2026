@@ -141,6 +141,7 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 - • Owner-operated: Two hours the owner, the rest a robotaxi.
 - • Fleet-operated: The same car, 16 hours a day. Six million of them by 2035.
 - • C/D-segment BEV, Level 4: Europe and Switzerland, city. Autoneum's largest market, 46 % of revenue.
+- image (not yet resolved): _ghost car floor panel highlighted_
 
 **Say**
 
@@ -318,13 +319,14 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 
 ### 10 — One panel, three layers, every one of them in-house
 
-**Beat:** Resolution · **Layout:** `bullets`
+**Beat:** Resolution · **Layout:** `image-right`
 
 **On screen**
 
 - • Wipe-clean skin, micro-perforated
 - • Absorber
 - • Magnetic mount
+- image (not yet resolved): _mat docking exploded view_
 
 **Say**
 
@@ -346,6 +348,7 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 - • Swap and wipe: Out in seconds, cleaned off the vehicle.
 - • Quiet and premium: Perforated skin over the absorber. And it looks designed.
 - • Warm: Heating tracks under the skin. Feel at home.
+- image (not yet resolved): _three ghost cars tiers_
 
 **Say**
 

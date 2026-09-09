@@ -17,4 +17,19 @@ lounge:
 swap:
   file: assets/07-clip-in-floor-mat-lifted-out.png
   credit: generated
-  source: AI-generated (ImagineArt)
+  source: AI-generated
+dock:
+  file: assets/10-mat-docking-exploded-view.jpg
+  query: mat docking exploded view
+  credit: generated
+  source: AI-generated
+ghostcar:
+  file: assets/02-ghost-car-floor-panel-highlighted.jpg
+  query: ghost car floor panel highlighted
+  credit: generated
+  source: AI-generated
+tiers:
+  file: assets/11-three-ghost-cars-tiers.jpg
+  query: three ghost cars tiers
+  credit: generated
+  source: AI-generated
