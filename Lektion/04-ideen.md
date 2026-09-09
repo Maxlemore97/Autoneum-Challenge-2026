@@ -56,223 +56,186 @@ Begründung im Abschnitt „Warum eher nicht im Lastwagen".
 ## Der Rahmen
 
 **Use Case & Fahrzeugsegment** (von den Regeln ausdrücklich verlangt):
-Level-4-BEV im C-/D-Segment, Europa/Schweiz, 2035, Kurzstrecke und städtisch —
-in **zwei Betreibermodellen**:
+Level-4-BEV im C-/D-Segment, Europa/Schweiz, 2035.
 
-- **Halterbetrieb:** Der Besitzer fährt ~2 h am Tag selbst und vermietet das
-  Fahrzeug die restliche Zeit in eine Robotaxi-Flotte.
-- **Flottenbetrieb:** Ein Betreiber lässt dasselbe Fahrzeug 16 h am Tag laufen.
+- **Ziel: Premium-Fahrdienste** der Uber-Black-Klasse, betrieben von grossen
+  Anbietern. Eine Luxuskabine, die sechzehn Stunden am Tag arbeitet — und deren
+  Fahrpreis eine warme, schöne Kabine einschliesst, vor allem auf langen Fahrten.
+- **Bonus: der Privathalter**, der sein Auto als Robotaxi vermietet. Er fährt privat
+  die Luxusmatte und setzt die billige ein, wenn das Auto arbeitet. Er ist nicht der
+  Kunde, für den entworfen wird — er kommt mit der Plattform mit.
 
-Beide landen bei derselben Kabine, aber mit unterschiedlichem Druck. **Die Flotte
-ist für einen Zulieferer der relevantere Kunde**, weil dort die Stückzahlen und
-das Lastenheft entstehen. **Der Halter stellt die härtere Anforderung**, weil er
-kein Depot hat.
-
-**Der Aufhänger:** Die 2×2-Matrix des Dozenten (Private/Shared × Short/Long) hat für
-genau diesen Fall **keine Zelle**. „Private" und „Shared" sind dort Alternativen –
-ab 2035 sind sie zwei Betriebsmodi *desselben Fahrzeugs*. Das ist die Lücke, in die
-wir stossen, und es ist eine Lücke in seiner eigenen Folie.
+**Der Aufhänger:** Die 2×2-Matrix des Dozenten (Private/Shared × Short/Long) kennt
+„Shared + Long distance" als Zelle — aber nicht als *Premium*. Genau dort setzen wir
+an: die geteilte Langstrecke, für die jemand mehr bezahlt.
 
 **Warum ausgerechnet der Boden:**
 
-1. **10× mehr Schuhe.** Ein Privatwagen sieht 2–4 Personen am Tag, ein geteiltes
-   Fahrzeug in der Stadt eher 30–40. Der Boden ist die Fläche, die *jede* dieser
-   Personen zwingend berührt.
-2. **Niemand schaut mehr hin.** Ohne Fahrer gibt es keine soziale Kontrolle. Wer
-   im Robotaxi etwas verschüttet, wird von niemandem gesehen und steigt aus.
-3. **Reinigung kostet beide Betreiber, auf verschiedene Weise.** Der Halter hat
-   gar kein Depot — Garage, Handstaubsauger, fünf Minuten. Die Flotte hat ein
-   Depot, aber jede Minute Reinigung ist eine Minute ohne Umsatz.
-4. **Er ist die einzige Fläche, die immer neben jedem ist.** Ohne Fahrer gibt es
-   keine feste Sitzordnung mehr — ein Lüftungsauslass im Armaturenbrett zielt
-   2035 ins Leere, Boden und untere Seitenwand nicht. Das zählt erst ab Stufe 3,
-   ist aber der Grund, warum die Leiter dort überhaupt hinaufführen kann.
+1. **Ein Premium-Fahrgast bewertet, was er sieht, wenn die Tür aufgeht.** Und die
+   erste Fläche, die er sieht und berührt, ist der Boden.
+2. **20 Fremde am Tag.** Waymo fährt ~500'000 bezahlte Fahrten pro Woche auf
+   3'000–3'700 Fahrzeugen — rund 20 pro Fahrzeug und Tag. Ohne Fahrer schaut niemand hin.
+3. **Reinigung ist Stillstand.** 30–60 Minuten pro Innenreinigung; ein Robotaxi
+   verdient nur, während es Menschen fährt.
+4. **Auf langen Fahrten entscheidet der Boden über Wärme und Ruhe.** Ohne Fahrer gibt
+   es keine feste Sitzordnung; Boden und untere Seitenwände sind die einzigen
+   Flächen, die immer neben jedem sind.
 5. **Es ist Autoneums Bauteil.** Innenraumboden und Seitenverkleidung sind
-   Kernportfolio — wir erfinden nichts Fachfremdes.
+   Kernportfolio.
 
 ---
 
-## Die Idee: die Matte wird ein Wechselteil
+## Die Idee: eine Luxusmatte, die im Depot in Sekunden gewechselt wird
 
-**Die Grundentscheidung, aus der alles folgt:** Der Boden hört auf, festverbautes
-Interieur zu sein, und wird ein **Wechselteil** — eine Fläche, die man in Sekunden
-herausnimmt, abseits des Fahrzeugs reinigt und wieder einsetzt. Alles Weitere ist
-Ausbaustufe auf derselben Halterung.
+**Die Grundentscheidung:** Der Boden hört auf, festverbautes Interieur zu sein, und
+wird ein **Wechselteil auf einer magnetischen Dock**. Für den Premium-Fahrdienst heisst
+das: Die Luxusmatte — warm, leise, gestaltet — fährt die ganze Woche; im Depot kommt
+sie in Sekunden heraus und eine saubere hinein, während das Auto weiterfährt. **Im
+Auto wird nie geputzt.**
+
+### Der Kaltstart der Geschichte
+
+Winter, sechs Uhr abends, Schneematsch am Bordstein. Ein Premium-Robotaxi hält, der
+Fahrgast steigt aus der Kälte auf einen Boden, der warm ist, in eine Kabine, die leise
+ist und aussieht, als wäre sie für ihn gestaltet. Das Auto arbeitet seit fünf Uhr
+morgens. Niemand hat etwas geputzt. — Das ist das Bild, das die Präsentation eröffnet
+und am Schluss auflöst.
 
 ### Warum die Reinigung das teuerste Problem ist
 
-**Niemand schaut mehr hin.** Ohne Fahrer gibt es keine soziale Kontrolle. Wer im
-Robotaxi etwas verschüttet, wird von niemandem gesehen und steigt aus. Ein
-Privatwagen sieht 2–4 Personen am Tag, ein städtisches Robotaxi 30–40 — und der
-Boden ist die Fläche, die jede einzelne davon zwingend berührt.
+Ein Privatwagen sieht 2–4 Personen am Tag, ein Robotaxi rund 20 Fahrten. Ohne Fahrer
+gibt es keine soziale Kontrolle; wer etwas verschüttet, steigt aus. Waymo beschäftigt
+heute schon Reinigungspersonal in Schutzausrüstung. Für einen Premium-Dienst ist das
+kein Ärgernis, sondern **das Produkt, das versagt** — der Fahrgast, der extra bezahlt
+hat, bewertet, was er sieht.
 
-**Das ist kein Zukunftsproblem.** Waymo beschäftigt heute schon eigenes
-Reinigungspersonal in Schutzausrüstung, weil Fahrgäste Robotaxis wie Partybusse
-behandeln.
-
-**Reinigung ist das Einzige, was ein Robotaxi nicht nebenbei tun kann.** Eine
-einfache Innenreinigung dauert **30–60 Minuten**, starke Verschmutzung das Zwei-
-bis Dreifache; **60–150 USD** pro Reinigung, bis 500 wenn es schlimm ist. Das Geld
-ist dabei nicht das Problem — die Stunde ist es, in der das Fahrzeug niemanden
-fährt. Für eine Flotte ist Verfügbarkeit das ganze Produkt. Und der Halter hat es
-schlimmer: kein Depot, keine Crew, nur seine Garage am Sonntag.
-
-*Vorbehalt zur Ehrlichkeit:* Das sind Zahlen aus der Aufbereitungsbranche und aus
-der Fachpresse, keine Automobilstudie. Die Grössenordnung ist unstrittig, die
-Präzision nicht — das gehört so gesagt, bevor jemand fragt.
+Eine einfache Innenreinigung dauert **30–60 Minuten**, starke Verschmutzung das Zwei-
+bis Dreifache, **60–150 USD** pro Reinigung. Das Geld ist nicht das Problem, die Stunde
+ist es, in der das Fahrzeug niemanden fährt. *(Zahlen aus dem Aufbereitungsgewerbe und
+der Fachpresse, keine Automobilstudie — so sagen.)*
 
 ### Das Vorbild: ein Luxushotel reinigt die Matratze nie
 
-Hotels reinigen zwischen zwei Gästen nicht das Zimmer, sie **tauschen die
-Kontaktschicht**. Matratzenschoner, Laken, Bettbezug — jede Lage hat genau eine
-Aufgabe, und der teure Kern darunter ist geschützt und wird fast nie gewaschen.
-Genau deshalb lässt sich Housekeeping in Minuten messen.
-
-Das ist unsere Idee, auf einen Fahrzeugboden angewendet: **aufhören, das Auto zu
-putzen, und die Schicht wechseln, die dreckig geworden ist.** Und es beantwortet
-zugleich die Frage „inspiration from other industries" aus den Regeln mit einer
-Branche, die das seit Jahrzehnten kommerziell betreibt.
+Hotels tauschen zwischen zwei Gästen die **Kontaktschicht** — Schoner, Laken, Bezug.
+Der teure Kern darunter ist geschützt und wird fast nie gewaschen; deshalb misst sich
+Housekeeping in Minuten. Unsere Idee ist dasselbe Prinzip auf dem Fahrzeugboden:
+**das Auto nicht putzen, die Schicht wechseln, die dreckig geworden ist.** Und es ist
+die Antwort auf „inspiration from other industries" — ausgerechnet die
+*Luxus*-Hotellerie.
 
 ### Die Befestigung: magnetischer Schnellwechsel
 
-Damit das trägt, muss das Herausnehmen **werkzeuglos und einhändig** sein. Vorbild
-aus einer ganz anderen Branche, was die Regeln ausdrücklich einladen:
-
-- **MagSafe** für das Prinzip: ein Raster flächenbündiger **Magnetpads** auf der
-  Unterseite des Paneels, dasselbe Raster deckungsgleich im Fahrzeugboden. Das
-  Paneel zentriert sich beim Einlegen selbst und hält ohne Verriegelung.
-- **Nintendo Switch 2** für die Mechanik: Magnete halten *und* führen, eine
-  Entriegelung verhindert versehentliches Lösen, und eine einzige Bewegung stellt
-  die Verbindung her.
-
-**Keine Schrauben, keine Clips, kein Klett, keine Stecker.** Das ist nicht Eleganz,
-sondern Voraussetzung: Streusalz und Schneematsch fressen jede offenliegende
-mechanische oder elektrische Verbindung. In der beheizten Ausbaustufe kommt genau
-deshalb **kontaktlose Energieübertragung** dazu — man kann keinen waschbaren Boden
-und offenliegende Kontakte gleichzeitig haben.
-
-### Die Produktleiter: drei Stufen auf einer Schnittstelle
-
-| Stufe | Einsatz | Was dazukommt | Wer kauft |
-|---|---|---|---|
-| **1** | Kurzstrecke | schnell wechselbar, abwischbar | Flotte, tausendfach — Reinigung ist Stillstand |
-| **2** | Mittelstrecke | **+ Akustik** (mikroperforierte Deckschicht über dem Absorber) und **+ Optik** | Halter fürs eigene Wochenende, gehobene Flotten |
-| **3** | Langstrecke / Luxus | **+ Heizleitungen** unter der Deckschicht, „feel at home" | Premium-Dienste, Chauffeur-Klasse |
-
-Jede Stufe enthält die darunter, und **eine Schnittstelle trägt alle drei**. Das
-macht daraus eine **Plattform statt drei Produkte** — für einen Zulieferer der
-eigentliche Wert, weil eine Plattform ein Lastenheft bedient und drei
-Einzelprodukte drei kosten. Die Stufen folgen dabei der **Distanz-Achse der
-Trendmatrix**, die uns der Dozent selbst gezeigt hat.
-
-**Warum Optik eine eigene Stufe verdient:** Geteilte Innenräume sehen heute billig
-aus, und zwar aus genau einem Grund — **strapazierfähig und hochwertig sind heute
-Gegensätze.** Was man abspritzen kann, sieht aus wie ein Bus. Die abwischbare
-Deckschicht bricht diesen Zielkonflikt, und die aufklipsbare Premium-Haut ist die
-Designebene. Das ist derselbe Konflikt wie der akustische, nur auf einer dritten
-Achse.
+Vier flächenbündige **Magnetpads** an den Ecken der Matte, das Gegenraster im Boden.
+Die Matte zentriert sich beim Einlegen selbst, hält ohne Verriegelung und kommt
+einhändig heraus — Vorbild MagSafe für das Prinzip, Switch 2 für die Mechanik.
+**Keine Schrauben, keine Clips, kein Klett, keine Stecker:** Streusalz und
+Schneematsch fressen jede offenliegende Verbindung. Für die beheizte Matte kommt die
+Energie deshalb **kontaktlos** durch die Dock — man kann keinen waschbaren Boden und
+offene Kontakte gleichzeitig haben.
 
 ### Der Zielkonflikt, der es schwer macht
 
-Ein akustisch wirksamer Boden muss **offen und porös** sein, damit Schall
-eindringen und absorbiert werden kann. Ein abwischbarer Boden will **geschlossen**
-sein. Heute muss man wählen: Teppich, der absorbiert und Flecken zieht — oder
-Gummimatte, die abwischbar und laut ist. Im BEV-Robotaxi ohne Motorgeräusch fällt
-das doppelt auf, weil Roll- und Windgeräusche dann alles sind, was übrig bleibt.
+Ein leiser Boden muss **offen und porös** sein, damit Schall eindringt und absorbiert
+wird. Ein abwischbarer Boden will **geschlossen** sein — und eine geschlossene Fläche
+wirft jedes Rollgeräusch zurück. Heute muss man wählen: Teppich, der absorbiert und
+Flecken zieht, oder Gummimatte, die abwischbar und laut ist. Für eine Premium-Kabine
+ist „laut" keine Option.
 
-**Autoneum hat genau diesen Konflikt bereits gelöst — nur ausserhalb des Autos.**
+**Autoneum hat den Konflikt bereits gelöst — nur nicht am Pkw-Boden.** Alpha-Liner
+(Radhaus-Aussenliner: Beschichtung, Porosität auf Absorption abgestimmt, Oberfläche
+leichter zu reinigen), RIMIC (geschlossenes Alublech, das dank Mikroperforation
+absorbiert), Washable surface flooring (Nutzfahrzeug-Portfolio seit Borgers 2023), und
+die Messung dazu, der Carpet Cleanability Analyzer.
 
-*Erstens:* **Alpha-Liner**, der textile Radhaus-Aussenliner, trägt eine dünne
-Beschichtung, bei der „the porosity of the textile material is **tuned to maximize
-the sound absorption**" — und zugleich ist „the plasticized surface **also easier
-to clean**".
+### Die Produktleiter: wir bauen die oberste Stufe, die anderen fallen heraus
 
-*Zweitens:* **RIMIC**-Hitzeschilde sind geschlossene Aluminiumbleche, die trotzdem
-absorbieren, weil eine gezielte **Mikroperforation** Luftschall in Wärme wandelt;
-die Akustikleistung wird über die Anzahl Öffnungen gesteuert.
+| Stufe | Einsatz | Was drin ist | Wer kauft |
+|---|---|---|---|
+| **3** | Langstrecke / Luxus | abwischbar **+ Akustik + Optik + Heizung** | **Premium-Fahrdienste** (Ziel); der Privathalter für sich |
+| **2** | Mittelstrecke | abwischbar + Akustik + Optik | gehobene Flotten |
+| **1** | Kurzstrecke | abwischbar, schnell wechselbar | Stadtflotten, tausendfach; der Privathalter fürs Taxi |
 
-*Drittens:* **Washable surface flooring** steht im **Nutzfahrzeug**-Portfolio als
-erster Punkt unter *Interior floor*. Beim Pkw gibt es das nicht. Das Produkt kam
-mit **Borgers Automotive** ins Haus (1. April 2023, EUR 117 Mio.) und ist seither
-im Lkw geblieben.
+**Gelesen von oben:** Stufe 3 ist das Produkt. Heizung weg — Stufe 2. Akustik weg —
+Stufe 1. Eine Dock trägt alle drei; das Premiumprodukt finanziert eine Plattform, in
+die das Volumen später einsteigen kann. **Die Marge ist oben, dort fangen wir an.**
 
-*Viertens:* Die Messung existiert auch schon — der **Carpet Cleanability Analyzer**
-gibt einen Cleanability Index und einen Dirt Repellency Index aus, heute intern in
-der Vorentwicklung.
+**Warum Optik eine eigene Stufe verdient:** Geteilte Innenräume sehen heute billig aus,
+weil strapazierfähig und hochwertig Gegensätze sind — was man abspritzen kann, sieht
+aus wie ein Bus. Die abwischbare Deckschicht bricht das, und die Luxus-Haut ist die
+Designebene.
+
+### Der Markt für die Luxuslinie ist da
+
+- **Der Premium-Robotaxi wird gerade gebaut.** Uber investiert 300 Mio. USD in Lucid
+  und bringt ab 2026 **20'000 Lucid Gravity** (Luxus-SUV) als Robotaxi auf die
+  Plattform. Waymos eigenes Fahrzeug ist seit 2018 ein **Jaguar I-PACE, ~70'000 USD**;
+  daneben läuft mit dem Zeekr-Ojai ein bewusst günstigeres Modell — zwei Klassen in
+  einer Flotte.
+- **Der Aufpreis wird bezahlt.** Obi mass Waymo im Juni 2025 **30–40 % über
+  Uber/Lyft**, Anfang 2026 auf 94'000 Fahrten noch **+12,7 %** gegenüber Uber.
+  McKinsey: die Hälfte der Kaufinteressierten würde bis 10'000 USD für einen
+  L4-Autobahnpiloten zahlen.
+- **Luxus heizt heute schon Flächen — nur nicht den Boden.** Die S-Klasse hat seit 2014
+  ein Warmth Comfort Package mit beheizten Armlehnen in Türen und Mitte; Rolls-Royce
+  verkauft Lambswool-Bodenmatten als Signaturteil. Wir kombinieren beides und machen
+  es wechselbar.
+- **Langstrecke ist der Use Case, den die Hersteller selbst zeichnen.** Volvo 360c:
+  Schlafkabine gegen den Kurzstreckenflug, ~300 km. Zürich–Genf sind 280 km.
+
+Details und Quellen: `Lektion/08-autonomes-fahren-luxus.md`.
 
 ### Der Aufbau
 
 | Schicht | Funktion | Herkunft im Haus |
 |---|---|---|
 | Abwischbare Deckschicht, mikroperforiert, Monomaterial-PET | Flüssigkeit perlt ab, Schall geht hindurch | Alpha-Liner, RIMIC, Washable surface flooring |
-| *(Stufe 3)* Heizebene, akustisch transparent | Strahlungswärme; **muss über dem Absorber liegen**, sonst dämmt der die Wärme weg | „(Heated) Floor mats", Nutzfahrzeug |
-| Absorber | die eigentliche Akustik; dämmt in Stufe 3 zusätzlich nach unten | Hybrid-Acoustics PET |
-| Magnethalterung, in Stufe 3 mit kontaktloser Speisung | werkzeugloser Wechsel, kein sichtbares Kabel | Unterhaltungselektronik |
+| Heizebene, akustisch transparent *(Stufe 3)* | Strahlungswärme; **liegt über dem Absorber**, sonst dämmt der die Wärme weg | „(Heated) Floor mats", Nutzfahrzeug |
+| Absorber | Akustik; dämmt in Stufe 3 zusätzlich nach unten | Hybrid-Acoustics PET |
+| Magnetdock, in Stufe 3 mit kontaktloser Speisung | werkzeugloser Wechsel, kein sichtbares Kabel | Unterhaltungselektronik |
 
-Die Reihenfolge ist keine Kleinigkeit: Ein akustischer Absorber ist ein
-hervorragender **Wärmedämmstoff**. Läge die Heizung darunter, ginge die Wärme in die
-Karosserie statt in die Kabine. Deshalb sitzt sie direkt unter der Deckschicht — und
-muss dafür **akustisch transparent** sein, also gedruckte Leiterbahnen oder ein
-feines Netz statt einer geschlossenen Folie.
+Ein akustischer Absorber ist ein guter Wärmedämmstoff. Deshalb sitzt die Heizung direkt
+unter der Deckschicht und muss **akustisch transparent** sein — gedruckte Leiterbahnen
+oder ein feines Netz, keine geschlossene Folie.
+
+### Zur Wärme: auf der langen Fahrt verdient sie ihren Preis — und nicht mehr
+
+Stufe 3 heizt **den Menschen, nicht die Kabine**: rund **200 W** Strahlungsfläche gegen
+etwa **4'500 W** Gebläse; mit warmem Boden *und* warmer Wand empfindet man die Kabine
+schon **6 °C unter** Solltemperatur als neutral. Im Winter kostet Heizen ein
+Elektrofahrzeug **20–40 % Reichweite** — auf einer Dreistundenfahrt ist das ein
+Ladestopp. **Das Luftsystem bleibt** (Scheibenentfrostung ist Pflicht), im Kaltstart ist
+Gebläse schneller; ein Robotaxi im Dienst ist aber fast nie im Kaltstart, und die
+thermische Masse, die eine Fläche langsam aufheizt, ist genau das, was sie eine
+Türöffnung überstehen lässt.
 
 ### Warum eher nicht der Lastwagen
 
-Challenge A fragt nach der beheizten Matte für den „driver" eines autonomen
-Lastwagens — in Anführungszeichen, was der Fragesteller selbst schon andeutet.
-Fährt der Lkw 2035 autonom, sitzt dort niemand mehr.
+Challenge A fragt nach Komfort für den „driver" eines autonomen Lkw — in
+Anführungszeichen. Fährt der Lkw 2035 autonom, sitzt dort niemand mehr, und mit ihm
+verschwindet der Grund für die ganze bewohnte Kabine: Headliners, Side panels, Bunk bed
+support, Floor mats. Ein Trend, der bestehende Autoneum-Produkte entwertet — die
+Antwort ist, dem Fahrgast zu folgen, nicht dem Fahrer. In der Präsentation steht das
+nicht in der Erzähllinie, sondern in der Q&A.
 
-**Und es geht um viel mehr als die Matte.** Verschwindet der Fahrer, verschwindet
-der Grund für die *ganze bewohnte Kabine*: Headliners, Side and rear panels, Upper
-storage, **Bunk bed support**, Floor mats, Carpet systems — all das existiert nur,
-weil dort ein Mensch sitzt, isst und schläft. Ein fahrerloser Lkw braucht keine
-Schlafkabine, sondern ein Sensorgehäuse. Das ist zugleich die ehrlichste Antwort
-auf Challenge B's „trends that kill the need for Autoneum products".
+### Die Bitte an den Vorstand
 
-*Der Einwand, der kommen wird:* „Schlafkabinen und begleitete Fahrten gibt es doch
-noch." Stimmt — Europa ist beim fahrerlosen Lkw deutlich langsamer als die USA. Nur
-ist das ein **schrumpfender** Markt, und ein Zulieferer steckt Entwicklungsbudget
-nicht in das Segment, dem der Nutzer abhandenkommt.
-
-### Zur Wärme: nicht überversprechen
-
-Stufe 3 heizt **den Menschen, nicht die Kabine**. Rund **200 W** gegenüber etwa
-**4'500 W** konvektiv; mit warmem Boden *und* warmer Wand empfinden Insassen die
-Kabine schon **6 °C unter** Solltemperatur als neutral. Im Winter kostet Heizen ein
-Elektrofahrzeug **20–40 % Reichweite**, im Stop-and-go bis 50 % — auf einer langen
-Winterfahrt ist das der Unterschied zwischen komfortabel ankommen und nachladen
-müssen.
-
-Aber: **Das Luftsystem bleibt.** Scheibenentfrostung ist gesetzlich vorgeschrieben,
-es verschwindet nie. Und im Kaltstart ist Gebläse schneller. Was die Fläche
-wegnimmt, ist die Aufgabe, *Menschen warm zu halten* — und dort gewinnt sie, weil
-ein Robotaxi im Betrieb fast nie im Kaltstart ist und die thermische Masse, die
-eine Fläche langsam aufheizen lässt, genau das ist, was sie eine
-30-Sekunden-Türöffnung überstehen lässt.
+1. **Ein Pilot:** eine Premium-Flotte, fünfzig Docks, ein Winter — die warme Matte
+   beweist sich im Dezember, nicht im Labor.
+2. **Laborzeit** auf dem Carpet Cleanability Analyzer und einem Impedanzrohr.
+3. **Eine Entscheidung, was das ist:** keine Matte, sondern eine **Dock** — eine
+   Plattform, die oben im Markt beginnt und den Rest später trägt.
 
 ### Nachweis und offene Punkte
 
-**Nachweisbar in einer Blockwoche:** Wechselzeit mit der Stoppuhr — Paneel raus,
-Paneel rein. Reinigbarkeit über Autoneums eigenen Cleanability Analyzer, unsere
-Deckschicht gegen einen Standardteppich. Absorption durch eine perforierte
-Deckschicht im Impedanzrohr. Für Stufe 3 zusätzlich eine Thermografie-Aufnahme.
+**Nachweisbar:** Wechselzeit mit der Stoppuhr; Reinigbarkeit auf Autoneums eigenem
+Index, unsere Deckschicht gegen einen Standardteppich; Absorption durch die
+perforierte Deckschicht im Impedanzrohr; Thermografie der beheizten Matte.
 
-**Offen und ehrlich zu benennen:**
-
-- **Was die Heizebene die Akustik kostet.** Alles zwischen Deckschicht und Absorber
-  liegt im Schallweg.
-- **Wirkungsgrad der kontaktlosen Übertragung** — induktiv typisch 10–20 % Verlust.
-- **Sicherheit:** heisse Fläche, barfüssige oder schlafende Fahrgäste, Kinder.
-  Temperaturbegrenzung und Fehlerabschaltung sind Pflicht.
-- **Magnete** gegen Medizintechnik und gegen die Batterie-Elektromagnetikabschirmung,
-  die Autoneum selbst herstellt.
-- **Halten die Magnete im Crash?** Ein loses Bodenpaneel ist ein Geschoss. Das ist
-  die härteste offene Frage.
-- **Drainage:** wohin das Reinigungswasser läuft, ist im Pkw ungelöst.
-
-**Quellen:** Autoneum Produktbroschüre 2021 (Alpha-Liner, RIMIC, Cleanability
-Analyzer) und Challenge-Deck 2026; US DOE und AAA zur Winterreichweite;
-ScienceDirect 2024 und 2026 zu Strahlungsheizung in Fahrzeugkabinen; Fachpresse zu
-Robotaxi-Flottenbetrieb.
+**Offen und ehrlich zu benennen:** was die Heizebene die Akustik kostet · Wirkungsgrad
+der kontaktlosen Übertragung (induktiv typisch 10–20 % Verlust) · Sicherheit (heisse
+Fläche, schlafende Fahrgäste, Kinder) · Magnete gegen Medizintechnik und gegen die
+Batterie-Elektromagnetikabschirmung · **halten die Magnete im Crash?** · Drainage des
+Reinigungswassers.
 
 ## Ausblick, klein am Rande: Reinigbarkeit als spezifizierbare Kenngrösse
 
@@ -320,10 +283,8 @@ dieselbe Aussage von zwei Seiten.
 
 ## Nächster Schritt
 
-Ein Bauteil, drei Stufen: **die Matte wird ein Wechselteil.** In dieser
-Reihenfolge präsentieren — erst was Reinigung einen Betreiber kostet, dann das
-Hotel-Prinzip, dann das magnetische Wechselpaneel, dann die Leiter nach oben bis
-zur beheizten Stufe. Die Wärme ist der Schluss, nicht der Anfang.
-
-Die Zwischenpräsentation ist Mittwoch 09:00 und wird zu 50 % auf die Idee und zu
-30 % auf die Recherche bewertet. Beides ist damit belegt.
+Die Schlusspräsentation am Freitag (`Praesentationen/final/`) erzählt es in dieser
+Reihenfolge: Kaltstart mit dem Premium-Fahrgast, der Kunde, das Problem, das Hotel,
+der Wechsel, die Wendung (abwischbar heisst laut), Autoneum hat es schon, die Stufen
+von oben gelesen, der Markt, die lange Winterfahrt, die Einlösung, der Privathalter
+als „one more thing", die Bitte an den Vorstand.
