@@ -4,20 +4,49 @@ Stand 8. Sep 2026.
 
 **Teamentscheid:** Challenge **C – Robotaxi / Cabin Comfort**.
 
-**Produktleiter (Stand 8. Sep, abends).** Ein Grundpaneel mit *einer* Halterung,
-drei Ausbaustufen entlang der Distanz-Achse — jede Stufe enthält die darunter:
+## Fokus — gilt für alles Weitere (Stand 9. Sep 2026, abends)
 
-| Stufe | Einsatz | Was dazukommt |
-|---|---|---|
-| **1** | Kurzstrecke | schnell wechselbar und abwischbar — das Basisprodukt, das die Stückzahlen trägt |
-| **2** | Mittelstrecke | + Akustik (mikroperforierte Deckschicht über dem Absorber) und + Optik, weil geteilte Innenräume heute billig aussehen |
-| **3** | Langstrecke / Luxus | + Heizleitungen unter der Deckschicht, „feel at home" |
+**Team:** Aladdin and the Magic Carpet (Team 4) · Challenge C, Robotaxi Cabin Comfort.
 
-Dass eine Schnittstelle alle drei trägt, macht daraus eine **Plattform statt drei
-Produkte** — und für einen Zulieferer ist das der eigentliche Wert.
+**Das Produkt:** Eine Bodenmatte, die auf einer **magnetischen Dock** sitzt und sich
+in Sekunden wechseln lässt — Einrasten wie ein MagSafe-Stecker, kein Werkzeug,
+keine sichtbaren Kabel. Drei Ausbaustufen auf derselben Dock, jede enthält die
+darunter: **1 billig und abwischbar · 2 leise und schön · 3 warm (Heizung).**
 
-*Hinweis:* Der Fliesstext unten stammt noch aus der Fassung, in der die Heizung
-führte. Die Präsentation (`Praesentationen/midterm/`) hat bereits die neue Struktur.
+**Das Ziel und der Bonus:**
+
+1. **Ziel: die Luxuslinie für grosse Premium-Fahrdienste** (Uber-Black-Klasse, betrieben
+   von grossen Anbietern). Die Luxusmatte (Stufe 3) fährt ganztags — warm, leise,
+   gestaltet — und wird im Depot in Sekunden gegen eine saubere getauscht. Der Nutzen ist
+   **auf langen Fahrten** am grössten. Das steht von der Titelfolie an im Zentrum.
+2. **Bonus: der Privathalter.** Fährt privat seine Luxusmatte und setzt die billige ein,
+   wenn das Auto als Taxi arbeitet. Er ist das „one more thing" am Schluss — nicht der
+   Held, sondern der Beweis, dass die Dock eine Plattform ist.
+
+**Wo der Schwerpunkt liegt:** auf **Stufe 3, Luxus für lange Fahrten, verkauft an
+Flotten**. Dort sitzt die Marge, dort spielen Wärme, Akustik und Design zusammen. Die
+billigeren Stufen fallen aus derselben Dock heraus — sie sind Folgeprodukt, nicht
+Erzählfokus.
+
+**Die Erzählklammer:** Kaltstart mit dem Fahrgast des Premium-Dienstes, der aus dem
+Schneematsch in eine warme Kabine steigt; Einlösung am Schluss: fünfzig warme Kabinen am
+Tag, keine davon im Auto geputzt. Danach der Privathalter als „one more thing".
+
+**Was bewusst nicht im Fokus ist:**
+
+- Der Lastwagen — Challenge A ist verworfen (der „driver" existiert 2035 nicht).
+- Heizung als Kernbehauptung — sie ist Stufe 3, nicht das Produkt. Die Luft bleibt
+  fürs Entfrosten; die Fläche heizt den Menschen, nicht die Kabine.
+- Markenabbildungen in Bildern — Uber Black, Waymo, Rolls-Royce nur als Marktvergleich
+  im Text, nie als Logo oder erkennbares Fahrzeug im Bild.
+
+**Bildsprache:** Geisterkarosserie mit farbigem Bauteil, wie Autoneums eigene
+Portfolio-Folien. Luxus-Konnotation ohne Markenlogos.
+
+**Bewertung, an der alles gemessen wird:** Midterm Idee 50 / Recherche 30 /
+Design 20 — Final Story 50 / Design 30 / Auftritt 20.
+
+*Der Fliesstext unten ist älter als dieser Block. Wo er widerspricht, gilt der Block.*
 
 **Challenge A wurde bewusst verworfen**, weil die Aufgabe an ihrer eigenen
 Prämisse scheitert: Sie fragt nach Komfort für den „driver" eines autonomen

@@ -1,0 +1,370 @@
+meta:
+  filename: Autoneum-Final_Aladdin
+  title: The magic carpet
+  subtitle: A luxury floor for premium ride services - warm, quiet, designed, and it swaps
+    in seconds
+  authors:
+  - Aladdin and the Magic Carpet - Team 4
+  event: Autoneum Challenge 2026 - Final
+  date: '2026-09-11'
+  footer_text: The magic carpet
+  time_limit_seconds: 600
+  core_message: |-
+    Premium ride services are the target: a luxury floor - warm, quiet, designed - that swaps in seconds, so a cabin that works sixteen hours a day never has to be scrubbed inside the car. The private owner gets the same dock as a bonus.
+  arc: |-
+    Begin with the end: a winter evening, a fare steps out of the slush into a premium cabin that is already warm underfoot - nobody scrubbed it. Setup: the premium ride service is the customer, 2035, Europe; the private owner is named as a bonus and parked. Problem: strangers destroy floors and a premium fare rates what he sees. Unfair fight: cleaning is downtime. Hero: swap the contact layer, like a luxury hotel. The turn: a wipeable floor is a loud floor, and a premium cabin cannot be loud. Companion: Autoneum solved it outside the car. Resolution: one dock, three tiers - we build the top one, the cheaper ones fall out of it; luxury already heats surfaces and riders already pay a premium; on a long winter journey warmth earns its price. Payoff: fifty warm cabins a day, none scrubbed in the car. One more thing: the private owner gets the same dock. Close on the ask.
+  references:
+  - key: Autoneum deck 2026
+    cite: V. Sansica, The Autoneum Challenge, ZHAW TAF, 7 Sep 2026 - product portfolio slides
+      6-7 (light vs commercial vehicles), rules of the game slide 14
+  - key: Autoneum brochure 2021
+    cite: 'Autoneum, Product portfolio - Interior, Exterior, New Mobility, Autoneum Pure,
+      Measurement Systems (July 2021): Alpha-Liner, RIMIC, Theta-Cell, Di-Light, Relive-1,
+      Carpet Cleanability Analyzer'
+  - key: Autoneum FY2025
+    cite: Autoneum, Autoneum reports solid revenue, achieves strong EBIT margin of well above
+      5 percent in fiscal year 2025, media release 23 Jan 2026 - revenue by Business Group
+  - key: Autoneum AR 2024
+    cite: Autoneum Annual Report 2024, Segment Information p. 99; Annual Report 2023 - Business
+      Group revenue 2022-2024
+  - key: Borgers 2023
+    cite: Autoneum, media release on the acquisition of Borgers Automotive, effective 1 Apr
+      2023, enterprise value EUR 117 m
+  - key: Goldman Sachs 2026
+    cite: Goldman Sachs Research, Robotaxis Are Forecast to Become a $400 Billion Market in
+      2035, 30 Apr 2026 - fleet ~7,000 (2024) to ~6 m (2035)
+  - key: Waymo ridership
+    cite: TechCrunch, Waymo's skyrocketing ridership in one chart, 27 Mar 2026 (~500k paid
+      rides/week); CNBC, Waymo crosses 450,000 weekly paid rides, 8 Dec 2025; fleet ~3,000-3,700
+      vehicles
+  - key: AAA 2019
+    cite: AAA, Cold weather reduces electric vehicle range, Feb 2019 - range -41 % at 20 F
+      / -7 C with heating on, -12 % without HVAC
+  - key: US DOE 2024
+    cite: 'US DOE Vehicle Technologies Office, Program Record: Impact of Cold Ambient Temperature
+      on BEV Performance, 12 Sep 2024'
+  - key: Radiant heaters 2024
+    cite: Applied Thermal Engineering (ScienceDirect), Design and development of electric
+      radiant heaters for local heating inside the cabin of electric vehicles, 2024 - ~200
+      W radiant vs ~4.5 kW convective; battery draw 2.3 to 0.9 kW at 0 C
+  - key: Radiant panels AV 2026
+    cite: 'Energy and Buildings (ScienceDirect), Optimizing thermal comfort in highly automated
+      vehicles: an AI-based HVAC management approach with radiant panels for winter conditions,
+      2026 - neutral comfort ~3 C below setpoint with one radiant source, ~6 C with two'
+  - key: Cleaning cost
+    cite: 'Consumer detailing trade estimates (tech9autorepair, dbdautodetailing), 2025: basic
+      interior clean 30-60 min, USD 60-150, heavy soiling 2-3x - not an automotive study;
+      press reporting on Waymo fleet handlers and PPE, 2025'
+  - key: Mercedes DRIVE PILOT
+    cite: Mercedes-Benz Group, DRIVE PILOT approved for 95 km/h by the KBA, 17 Dec 2024 -
+      first certified SAE L3 in series production (S-Class, EQS); USD 2,500/yr subscription
+      in the US (InsideEVs 2023)
+  - key: Uber-Lucid-Nuro
+    cite: Lucid Motors / SEC 8-K, Lucid, Nuro and Uber partner on next-generation robotaxi
+      program, Jul 2025 - USD 300 m investment, up to 20,000 Lucid Gravity over six years,
+      launch 2026; Electrek 13 Apr 2026 on early test rides
+  - key: Waymo vehicles
+    cite: 'Waymo Blog, Meet our newest self-driving vehicle: the all-electric Jaguar I-PACE,
+      Mar 2018 (base price ~USD 70,000); TechCrunch 19 Aug 2026 on the cheaper Zeekr-built
+      Waymo Ojai'
+  - key: Obi pricing
+    cite: Obi ride-hail price study, Business Insider Oct 2025 (Waymo 30-40 % above Uber/Lyft,
+      Jun 2025); TechCrunch 27 Jan 2026 (Waymo USD 19.69 vs Uber 17.47 vs Lyft 15.47, 94,000
+      ride requests, SF Bay Area)
+  - key: McKinsey WTP
+    cite: 'McKinsey Center for Future Mobility, Consumer Survey 2022 (n = 30,897): 50 % of
+      interested buyers would pay up to ~USD 10,000 for an L4 highway pilot'
+  - key: Luxury heated surfaces
+    cite: Gentherm press release, Heated armrests featured in the 2014 Mercedes-Benz S-Class;
+      Mercedes-Benz S-Class Warmth Comfort package (heated door and centre armrests, seat
+      backs); Rolls-Royce Motor Cars Boutique, Lambswool Floormats
+  - key: Long-journey concepts
+    cite: 'Volvo Cars Media, Volvo 360c: why fly when you can be driven?, Sep 2018 (~300 km
+      routes vs short-haul flights); Mercedes-Benz F 015 Luxury in Motion, CES 2015; Cadillac
+      InnerSpace, CES 2022'
+  - key: Swiss ordinance
+    cite: 'Swiss Federal Council ordinance on automated driving, in force 1 Mar 2025: L3 motorway
+      pilot, driverless vehicles on approved routes with remote operator, automated parking
+      (electrive.net 16 Dec 2024)'
+  qa:
+  - q: Is a heated surface not slower than blown air?
+    a: |
+      For a cold start, yes, and we do not claim otherwise. Radiation reaches
+      the skin instantly; what takes time is the panel surface itself. That is
+      why the heating layer sits directly under the wipe-clean skin and not
+      under the absorber - little mass above it, so it responds in seconds
+      rather than minutes.
+      But the honest point is a different one. A robotaxi in service is almost
+      never in a cold start. It runs sixteen hours a day, so the panel is warm
+      the whole time - and the thermal mass that makes a surface slow to heat
+      is exactly what makes it survive a thirty-second door opening. Air loses
+      everything at every stop. The surface does not.
+  - q: Is 200 W enough to heat an interior?
+    a: |
+      No, and it is not meant to. 200 W warms the person, not two to three
+      cubic metres of air. Comfort depends on the temperature of the surfaces
+      around you as much as on air temperature, which is why warm surfaces let
+      you run the air about 3 C colder with one radiant source and 6 C colder
+      with two, at the same comfort.
+      If we claimed 200 W heats a cabin we would simply be wrong. The air
+      system stays - windscreen demisting and defrosting are legal
+      requirements, so it could not leave anyway. What we take away from it is
+      the job of keeping people comfortable.
+  - q: Why the floor and not the seat? Robotaxi interiors just look cheap today.
+    a: |
+      They look cheap because hard-wearing and premium are opposites today -
+      anything you can hose down looks like a bus. That is the same trade-off
+      as our acoustic one, on a third axis, and the wipe-clean skin breaks it:
+      the premium insert is the design layer, and it clips onto the same mount.
+      It should not stop at the floor. The same material language runs up the
+      lower side walls and into the headliner - all Autoneum parts. We do not
+      make seats, but if the surrounding surfaces set the language, the seat
+      supplier matches it. Owning the surface language of a shared cabin is a
+      larger position than owning one carpet.
+  - q: How big is the premium tier really, and does anyone pay for it?
+    a: |
+      No reliable public number for the tier itself, and we will not invent
+      one. What is on record: Uber is deploying twenty thousand Lucid Gravity
+      robotaxis - a luxury SUV - from 2026; Waymo has run a seventy-thousand-
+      dollar Jaguar since 2018. And riders pay a premium for the experience:
+      Obi measured Waymo at 30 to 40 percent above Uber in mid-2025, still
+      12.7 percent above it in early 2026, on 94,000 rides. McKinsey found
+      half of interested buyers would pay up to ten thousand dollars for a
+      Level 4 highway pilot. Content per vehicle is higher in premium, which
+      is why tier three is where the margin sits, not the volume.
+  - q: Why not the truck - Challenge A?
+    a: |-
+      Because the driver it asks us to keep warm will not be there. Challenge A puts the word driver in quotation marks itself. If the truck drives itself by 2035, the whole inhabited cab loses its reason to exist - headliners, side panels, bunk bed support, the heated mat. That is a trend that kills existing Autoneum products, and the answer to it is to follow the passenger, not the driver. Europe will keep sleeper cabs for years, but it is a shrinking market with shrinking innovation budgets.
+theme:
+  accent: 78BE20
+budget:
+  words_per_slide: 35
+  bullets_per_slide: 5
+  wpm: 130
+slides:
+- layout: title
+  id: cabin
+  title: The magic carpet
+  subtitle: A luxury floor for premium ride services - warm, quiet, designed, and it swaps
+    in seconds
+  image: ../midterm/assets/01-robotaxi-cabin-floor.jpg
+  beat: Cold open
+  seconds: 20
+  notes: |-
+    We are Aladdin and the Magic Carpet. Our carpet is a floor for the premium end of the robotaxi market - the Uber Black class - and its trick is that it comes out of the car in three seconds. Let us start at the end of a working day.
+- layout: image-full
+  id: doorstep
+  image: ../midterm/assets/03-open-door-winter-slush.jpg
+  title: 'Six in the evening, slush outside: the fare steps into a cabin that is already warm
+    underfoot'
+  body: Nobody scrubbed it. The mat that earned all day just went back to the depot for a
+    clean one.
+  beat: Cold open
+  seconds: 35
+  notes: |-
+    Picture it. Winter, six in the evening, slush on the pavement. A premium robotaxi pulls up - the Uber Black of 2035. The fare opens the door and steps out of the cold onto a floor that is warm underfoot, into a cabin that is quiet, that looks like it was designed for him. This car has been working since five in the morning. Nobody has scrubbed anything. Hold that picture - we come back to it.
+- layout: two-col
+  title: By 2035 the premium robotaxi is a luxury cabin that works sixteen hours a day
+  columns:
+  - kicker: Use case - the target
+    head: Premium ride services
+    text: Uber Black class fleets. The fare pays for a warm, beautiful cabin - most on long
+      journeys.
+  - kicker: Segment
+    head: C/D-segment BEV, Level 4
+    text: Europe and Switzerland. Autoneum's largest market, 46 % of revenue.
+  - kicker: And a bonus
+    head: The private owner
+    text: Swaps in a cheap mat when his car works as a taxi. More on him at the end.
+  cite: Goldman Sachs, Robotaxis to become a $400 bn market in 2035 (Apr 2026); Autoneum FY2025
+    revenue release (Jan 2026)
+  beat: Setup
+  seconds: 40
+  notes: |-
+    Our customer is the premium ride service - the Uber Black class, run by big operators. That class is being built right now: Uber is putting twenty thousand Lucid Gravity, a luxury SUV, on its platform from 2026, and Waymo's own car is a seventy-thousand-dollar Jaguar. Six million robotaxis by 2035, and Europe is Autoneum's largest market. The private owner who rents his car out is a bonus of the same idea - we park him until the end.
+- layout: image-full
+  id: dirtyfloor
+  image: ../midterm/assets/07-ruined-shared-car-floor.jpg
+  title: This is what twenty strangers a day leave behind
+  body: A private car carries 2-4 people a day. A Waymo does 20+ paid rides - and a premium
+    fare rates what he sees.
+  cite: Waymo, ~500,000 paid rides a week on ~3,000-3,700 vehicles (TechCrunch, CNBC, Dec
+    2025 - Mar 2026)
+  beat: Problem
+  seconds: 35
+  notes: |-
+    Salt, sand, a coffee ring, flattened fibres. Waymo runs half a million paid rides a week on three to four thousand cars - twenty-plus rides per car per day, each one a stranger, and nobody supervises a driverless cabin. For a premium service this is not a nuisance, it is the product failing: the fare who paid extra rates what he sees when the door opens.
+- layout: metrics
+  title: Cleaning is the one thing a robotaxi cannot do while earning
+  metrics:
+  - kicker: A basic interior clean
+    value: 30-60 min
+    text: heavy soiling doubles or triples it
+  - kicker: Per clean
+    value: USD 60-150
+    text: routine, up to 500 when bad
+  - kicker: For the operator
+    value: = downtime
+    text: it earns only while carrying people
+  cite: Consumer detailing trade estimates, 2025 (not an automotive study); press reporting
+    on Waymo fleet handlers
+  beat: Unfair fight
+  seconds: 40
+  notes: |-
+    Thirty to sixty minutes for a basic interior clean, two to three times that when it is bad. Detailing-trade figures, not an automotive study - we say so. But the money is not the cleaning bill, it is the hour the car spends earning nothing. For a fleet, uptime is the whole product. And the private owner has it worse: no depot, no crew, his garage on a Sunday - and his own car, that strangers have been in all week.
+- layout: statement
+  kicker: Learning from another industry
+  title: A luxury hotel never cleans the mattress
+  body: It changes the layer above it. Each layer has one job, and the one that touches the
+    guest is replaced every time.
+  beat: Hero
+  seconds: 35
+  notes: |-
+    Hotels do not deep-clean a room between guests. They change the contact layer - protector, sheet, duvet cover. The expensive core underneath is protected and almost never washed, and that is why housekeeping is measured in minutes. That is the whole idea, applied to a car floor: stop cleaning the car. Change the layer that got dirty.
+- layout: image-right
+  id: swap
+  image: ../midterm/assets/07-clip-in-floor-mat-lifted-out.png
+  video: ../midterm/assets/07-swap-lift-out.mp4
+  title: So the mat comes out at the depot, and the cleaning happens somewhere else
+  lead: The mat becomes a part the depot swaps - the car never waits for a cleaner.
+  bullets:
+  - text: Wipe-clean skin, mono-material PET
+    detail: No fibres to hold dirt
+  - text: Magnetic dock, no visible fasteners
+    detail: Out in seconds, no tools
+  - text: Cleaned off the vehicle
+    detail: The car goes back out, the mat is washed
+  beat: Hero
+  seconds: 45
+  notes: |-
+    This is it. Watch the corner. Four magnets hold it, they centre it, nothing is screwed or clipped, nothing corrodes. It lifts out in seconds and the cleaning happens away from the car - the car leaves the depot with a fresh mat while the dirty one is washed. For a fleet that is the difference between a car that earns and a car that waits.
+- layout: statement
+  kicker: The harder problem
+  title: But a floor you can wipe is a floor you can hear
+  body: Quiet needs an open, porous surface. Clean wants a closed one. Today you pick one.
+  beat: The turn
+  seconds: 35
+  notes: |-
+    Here the idea nearly died. A quiet floor has to be open and porous so sound gets in and is absorbed. A clean floor wants to be closed, so nothing gets in - and a closed surface reflects every bit of road noise back at you. Today you choose: a carpet that absorbs and stains, or a rubber mat that wipes and is loud. In an electric robotaxi without engine noise that is worse, because road and wind are all that is left.
+- layout: table
+  title: Autoneum has already solved all of it, just never in the same part
+  head:
+  - We need
+  - Autoneum has
+  - Where it sits
+  rows:
+  - - Washable floor
+    - Washable surface flooring
+    - Trucks (Borgers, 2023)
+  - - Wipeable yet acoustic
+    - Alpha-Liner
+    - Wheelhouse, outside
+  - - Absorb through a closed skin
+    - RIMIC micro-perforation
+    - Heatshields
+  - - Cleanability metric
+    - Cleanability Analyzer
+    - Internal lab
+  - - Heating layer
+    - (Heated) Floor mats
+    - Trucks
+  cite: Autoneum Challenge deck, 7 Sep 2026, slides 6-7; Autoneum product brochure 2021; Autoneum
+    press release on Borgers, Apr 2023
+  beat: Companion
+  seconds: 50
+  notes: |-
+    Every ingredient exists inside Autoneum today. Washable surface flooring is a truck product that came in with Borgers in 2023. Alpha-Liner is a wheelhouse liner whose coating is tuned so the textile still absorbs while the surface wipes clean - our exact conflict, solved, on the outside of the car. RIMIC proves you can absorb through a closed skin. Autoneum even owns the measurement. None of these has been combined, and none has been offered in a passenger car.
+- layout: two-col
+  id: tiers
+  title: One dock, three tiers - we build the top one, the others fall out of it
+  lead: Tier 3 is the product for premium fleets. Tiers 1 and 2 are the same dock with less
+    on it.
+  image_query: three ghost cars tiers
+  image_prompt: 'Three identical modern compact electric cars side by side in a row, each
+    rendered as a translucent white ghost body with fine light-grey edge lines, semi-transparent
+    so the interior floor is visible, same three-quarter front angle from slightly above,
+    evenly spaced, filling the width. Left car: only the interior floor panel rendered as
+    a solid opaque bright lime-green component, everything else ghosted. Middle car: the floor
+    panel plus the lower door and side-wall trim panels in solid lime green. Right car: the
+    same floor and side-wall panels in lime green, now radiating a soft warm orange glow into
+    the cabin. Generic car with no brand identity, no people'
+  image_style: clean vector-like technical rendering in the visual language of an automotive
+    supplier product map, flat solid colours, even lighting, plain white background, no text,
+    no numbers, no labels, no badges, no logos, no watermark
+  columns:
+  - kicker: 1 - Short distance
+    head: Swap and wipe
+    text: Out in seconds, cleaned off the vehicle.
+  - kicker: 2 - Medium distance
+    head: Quiet and premium
+    text: Perforated skin over the absorber. And it looks designed.
+  - kicker: 3 - Long distance
+    head: Warm
+    text: Heating tracks under the skin. Feel at home.
+  beat: Resolution
+  seconds: 45
+  notes: |-
+    The product line, on the distance axis of the trend matrix we were shown - but read it from the top. Tier three is what we build for premium fleets: warm, quiet, designed. Take the heating out and you have tier two for a mid-market ride. Take the acoustics out and you have tier one for the city shuttle. One dock carries all three, so the premium product funds a platform that the volume end can buy into later. The margin is at the top; that is where we start.
+- layout: metrics
+  title: Luxury already heats its surfaces and sells the mat as a signature
+  lead: S-Class heated armrests. Rolls-Royce lambswool mats. Never on a swappable floor.
+  metrics:
+  - kicker: Uber x Lucid x Nuro
+    value: 20,000
+    text: luxury-SUV robotaxis from 2026
+  - kicker: Waymo's base car
+    value: USD 70,000
+    text: a Jaguar, since 2018
+  - kicker: Riders pay
+    value: +13-40 %
+    text: Waymo over Uber, 2025-26
+  cite: Lucid / Uber / Nuro, Jul 2025; Waymo Blog 2018; Obi via TechCrunch, Jan 2026; Mercedes-Benz
+    Warmth Comfort package; Rolls-Royce Boutique
+  beat: Resolution
+  seconds: 45
+  notes: |-
+    Three facts that make tier three a business and not a wish. The premium robotaxi is being built: Uber is deploying twenty thousand Lucid Gravity, a luxury SUV, from 2026, and Waymo has run a seventy-thousand-dollar Jaguar since 2018. Riders pay for the experience: Obi measured Waymo thirty to forty percent above Uber in mid-2025, still thirteen percent above in early 2026. And luxury already heats surfaces - the S-Class warmth package heats armrests and door panels - and already treats the mat as a signature. We combine the two and make it swappable.
+- layout: image-full
+  id: lounge
+  image: ../midterm/assets/06-driverless-lounge-interior.jpg
+  title: On a winter journey, warmth is the difference between arriving and charging
+  body: Around 200 W of radiant surface instead of 4,500 W of blown air. Winter otherwise
+    costs an EV 20-40 % of its range.
+  cite: Applied Thermal Engineering 2024; Energy and Buildings 2026; AAA EV range test 2019
+    (-41 % at -7 C with heating); US DOE VTO 2024
+  beat: Resolution
+  seconds: 40
+  notes: |-
+    This is where the luxury mat earns its price. Radiant surfaces give comfort at around two hundred watts where blown air needs four and a half kilowatts, and people feel neutral several degrees below the set air temperature. Winter otherwise costs an EV twenty to forty percent of its range - on a three-hour trip that is a charging stop. Be careful with the claim: it heats the person, not the cabin; the air stays for demisting. Volvo drew this journey years ago - a cabin that replaces the three-hundred-kilometre flight. Zurich to Geneva is two hundred and eighty.
+- layout: statement
+  kicker: Six in the evening, again
+  title: Fifty warm cabins a day, and not one of them scrubbed inside the car
+  body: The luxury mat runs all week. At the depot it swaps for a clean one in seconds. That
+    is what the fare pays for.
+  beat: Payoff
+  seconds: 35
+  notes: |-
+    Now you know what you saw at the start. That cabin worked since five in the morning on a warm, quiet, designed floor - and when it came through the depot the mat came out and a clean one went in, in seconds, while the car kept moving. Fifty cabins a day like that, and not one of them scrubbed inside the car. That is what a premium fare pays for, and it is what the operator saves.
+- layout: statement
+  kicker: One more thing
+  beat: Bonus
+  seconds: 30
+  title: The same dock lets a private owner play taxi on a cheap mat and drive home on his
+    own
+  body: Luxury mat for himself, cheap mat for the shift. Thirty seconds between them.
+  notes: |-
+    And because it is a dock, the mat that goes back in does not have to be the same kind of mat. A private owner who rents his car out as a robotaxi keeps two: a cheap one that strangers stand on all week, and his own luxury one for Friday evening and the drive to the mountains. Same dock, thirty seconds. We did not design for him - he comes free with the platform.
+- layout: closing
+  title: What we ask the board for
+  bullets:
+  - 'A pilot: one premium fleet, fifty docks, one winter'
+  - Lab time on the Cleanability Analyzer and an impedance tube
+  - A decision to treat the dock as a platform, not the mat as a part
+  body: 'Sources: Autoneum challenge deck 2026, product brochure 2021, FY2025 release; Goldman
+    Sachs 2026; Obi / TechCrunch 2026; Lucid-Uber-Nuro 2025; AAA 2019, US DOE 2024; Applied
+    Thermal Engineering 2024, Energy and Buildings 2026. Full references in the presenter
+    script.'
+  beat: Close
+  seconds: 35
+  notes: |-
+    Three things. A pilot with one premium fleet - fifty docks, one winter - because the warm mat proves itself in December, not in a lab. Lab time on the instruments Autoneum already owns. And a decision about what this is: not a mat, a dock - a platform that starts at the luxury end and carries the rest of the market later. Thank you.
