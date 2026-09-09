@@ -105,7 +105,7 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 **On screen**
 
 - subtitle: One mount, three tiers - from a city shuttle to a luxury cabin
-- image: `/Users/maximilian/Library/CloudStorage/ProtonDrive-Maxlemore97@proton.me-folder/Studium Informatik/Autonomes fahren/Praesentationen/midterm/assets/01-robotaxi-cabin-floor.jpg`
+- image: `assets/01-robotaxi-cabin-floor.jpg`
 
 **Say**
 
@@ -164,7 +164,7 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 **On screen**
 
 - body: A private car sees 2-4 people a day. A city robotaxi sees 30-40, with nobody watching.
-- image: `/Users/maximilian/Library/CloudStorage/ProtonDrive-Maxlemore97@proton.me-folder/Studium Informatik/Autonomes fahren/Praesentationen/midterm/assets/07-ruined-shared-car-floor.jpg`
+- image: `assets/07-ruined-shared-car-floor.jpg`
 
 **Say**
 
@@ -186,7 +186,7 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 - • 30-60 min — heavy soiling doubles or triples it
 - • USD 60-150 — routine, up to 500 when bad
 - • = downtime — it earns only while carrying people
-- image: `/Users/maximilian/Library/CloudStorage/ProtonDrive-Maxlemore97@proton.me-folder/Studium Informatik/Autonomes fahren/Praesentationen/midterm/assets/03-open-door-winter-slush.jpg`
+- image: `assets/03-open-door-winter-slush.jpg`
 
 **Say**
 
@@ -230,7 +230,8 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 - • Wipe-clean skin, mono-material PET
 - • Magnetic mount, no visible fasteners
 - • Cleaned off the vehicle
-- image: `/Users/maximilian/Library/CloudStorage/ProtonDrive-Maxlemore97@proton.me-folder/Studium Informatik/Autonomes fahren/Praesentationen/midterm/assets/07-clip-in-floor-mat-lifted-out.png`
+- **VIDEO** `assets/07-swap-lift-out.mp4` — plays here; the still below is the poster frame
+- poster: `assets/07-clip-in-floor-mat-lifted-out.png`
 
 **Say**
 
@@ -339,7 +340,7 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 **On screen**
 
 - body: Around 200 W instead of 4,500 - and winter costs an EV 20-40 % of its range. Feel at home.
-- image: `/Users/maximilian/Library/CloudStorage/ProtonDrive-Maxlemore97@proton.me-folder/Studium Informatik/Autonomes fahren/Praesentationen/midterm/assets/06-driverless-lounge-interior.jpg`
+- image: `assets/06-driverless-lounge-interior.jpg`
 
 **Say**
 
