@@ -1,38 +1,38 @@
 # Presenter script — The magic carpet
 
-*A luxury floor for premium ride services - warm, quiet, designed, and it swaps in seconds*
+*A heated luxury floor for premium autonomous journeys*
 
 Aladdin and the Magic Carpet - Team 4 · Autoneum Challenge 2026 - Final · 2026-09-11
 
 ## The arc
 
-Begin with the end: a winter evening, a fare steps out of the slush into a premium cabin that is already warm underfoot - nobody scrubbed it. Setup: the premium ride service is the customer, 2035, Europe; the private owner is named as a bonus and parked. Problem: strangers destroy floors and a premium fare rates what he sees. Unfair fight: cleaning is downtime. Hero: swap the contact layer, like a luxury hotel. The turn: a wipeable floor is a loud floor, and a premium cabin cannot be loud. Companion: Autoneum solved it outside the car. Resolution: one dock, three tiers - we build the top one, the cheaper ones fall out of it; luxury already heats surfaces and riders already pay a premium; on a long winter journey warmth earns its price. Payoff: fifty warm cabins a day, none scrubbed in the car. One more thing: the private owner gets the same dock. Close on the ask.
+Begin with the end: Zurich to Geneva in February, warm underfoot, no charging stop. Setup: the premium ride service on long journeys is the customer; the private owner is parked as a bonus. Problem: heating the air is the biggest winter drain on an EV. Unfair fight: on a long journey that drain is a charging stop, and blown air is the wrong tool for a lounge. Hero: heat the passenger, not the air - luxury already heats surfaces, nobody has done the floor. The turn: a heated floor is either loud or cold - absorbers insulate. The engineering answer: heater over the absorber, acoustically transparent. Companion: Autoneum makes every layer. Market proof. The dock as the way a luxury surface stays luxury (one slide, not six). Payoff: Geneva, warm, quiet, no stop. One more thing: the private owner. The ask. No cleaning story, no city robotaxi, no three-tier ladder.
 
 ## Core message
 
-> Premium ride services are the target: a luxury floor - warm, quiet, designed - that swaps in seconds, so a cabin that works sixteen hours a day never has to be scrubbed inside the car. The private owner gets the same dock as a bonus.
+> A heated luxury floor - warm underfoot, quiet, designed - for premium autonomous rides on long winter journeys: it heats the passenger with 200 W instead of the air with 4,500, so the fare arrives warm and the car does not stop to charge. Autoneum already makes every layer of it.
 
-## Running order — 9:25 total
+## Running order — 9:20 total
 
 | # | Action title | Beat | Speaker | Time |
 |---:|---|---|---|---:|
 | 1 | The magic carpet | Cold open | — | 0:20 |
-| 2 | Six in the evening, slush outside: the fare steps into a cabin that is already warm underfoot | Cold open | — | 0:35 |
-| 3 | By 2035 the premium robotaxi is a luxury cabin that works sixteen hours a day | Setup | — | 0:40 |
-| 4 | This is what twenty strangers a day leave behind | Problem | — | 0:35 |
-| 5 | Cleaning is the one thing a robotaxi cannot do while earning | Unfair fight | — | 0:40 |
-| 6 | A luxury hotel never cleans the mattress | Hero | — | 0:35 |
-| 7 | So the mat comes out at the depot, and the cleaning happens somewhere else | Hero | — | 0:45 |
-| 8 | But a floor you can wipe is a floor you can hear | The turn | — | 0:35 |
-| 9 | Autoneum has already solved all of it, just never in the same part | Companion | — | 0:50 |
-| 10 | One dock, three tiers - we build the top one, the others fall out of it | Resolution | — | 0:45 |
-| 11 | Luxury already heats its surfaces and sells the mat as a signature | Resolution | — | 0:45 |
-| 12 | On a winter journey, warmth is the difference between arriving and charging | Resolution | — | 0:40 |
-| 13 | Fifty warm cabins a day, and not one of them scrubbed inside the car | Payoff | — | 0:35 |
-| 14 | The same dock lets a private owner play taxi on a cheap mat and drive home on his own | Bonus | — | 0:30 |
+| 2 | Geneva to Winterthur, February, six in the morning: 300 km, warm underfoot, and the car does not stop to charge | Cold open | — | 0:35 |
+| 3 | By 2035 the premium ride is a long one, and the fare pays for the cabin | Setup | — | 0:40 |
+| 4 | Heating the air is the single largest winter drain on an electric car | Problem | — | 0:40 |
+| 5 | On a 300-km journey that drain is a charging stop - and a premium fare waiting at a charger is a lost customer | Unfair fight | — | 0:35 |
+| 6 | Blown air is the wrong tool for a lounge | Unfair fight | — | 0:40 |
+| 7 | Heat the passenger, not the air: 200 W instead of 4,500 | Hero | — | 0:45 |
+| 8 | But a heated floor is either loud or cold | The turn | — | 0:35 |
+| 9 | Autoneum already makes every layer of it | Companion | — | 0:45 |
+| 10 | The build: a premium skin, a heater that lets sound through, an absorber, a dock | Resolution | — | 0:45 |
+| 11 | The premium market is being built right now | Resolution | — | 0:40 |
+| 12 | A luxury surface has to stay luxury - so it lifts out in seconds | Resolution | — | 0:40 |
+| 13 | Winterthur, nine in the morning, at your front door: warm, quiet, and no stop on the way | Payoff | — | 0:35 |
+| 14 | The private owner runs the same floor at the weekend - and a standard one when the car earns | Bonus | — | 0:30 |
 | 15 | What we ask the board for | Close | — | 0:35 |
 
-**0:35 under the 10-minute limit.**
+**0:40 under the 10-minute limit.**
 
 ## References
 
@@ -112,9 +112,116 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 > Level 4 highway pilot. Content per vehicle is higher in premium, which
 > is why tier three is where the margin sits, not the volume.
 
+**Q — How many premium cars are actually built, and how many of them end up in fleets?**
+
+> Hard numbers first, our arithmetic second, and I will say which is
+> which. Today about 98 million light vehicles are sold a year, and
+> roughly 8.6 million of them are premium or luxury - about nine percent
+> of the units, and far more than nine percent of the profit pool and of
+> the content per vehicle. Three German brands are around eighty percent
+> of that. Ultra-luxury - Rolls-Royce, Bentley, Ferrari - is fifty
+> thousand cars a year: that is our design reference, not our market.
+> How much of it is fleet already? In China the ride-hail platforms buy
+> about 1.8 million cars a year - thirty percent of all corporate sales.
+> And the premium slice of ride-hailing is its fastest-growing part:
+> Uber's Comfort, SUV and Black now run above ten billion dollars of
+> annualised bookings, up thirty-five percent in a year - roughly a tenth
+> of Uber's mobility bookings, growing at nearly twice the rate of the
+> base. Uber is buying Blacklane to get more of it.
+> Now the projection, and this one is ours. Goldman Sachs puts six
+> million robotaxis on the road in 2035. A fleet car runs sixty to a
+> hundred thousand kilometres a year and is replaced every four to five,
+> so steady-state demand is roughly 1.2 to 1.5 million robotaxis a year.
+> Apply Uber's own premium share - ten to twenty percent - and you get
+> 120,000 to 300,000 premium robotaxis a year. Porsche builds three
+> hundred and ten thousand cars a year. The premium robotaxi tier alone
+> is Porsche-sized, and that is before the private premium car, where
+> Level 3 arrives first and where 8.6 million cars a year are already
+> being built. At a few hundred francs of content per set that is a
+> revenue line in the tens to low hundreds of millions, against
+> Autoneum's 2.3 billion today. Which is why we ask for a pilot, not a
+> factory.
+
+**Q — How much energy does it actually save, and how long until the cabin feels good?**
+
+> Two measured numbers, then the arithmetic on top of them. At zero
+> degrees a convective system draws 2.3 kilowatts from the battery to
+> hold comfort; with radiant surfaces the same comfort costs 0.9. That
+> is 1.4 kilowatts - sixty percent - saved continuously. Over the three
+> hours from Geneva that is 4.2 kilowatt-hours: twenty to twenty-five
+> kilometres of motorway range, which is exactly the margin between
+> arriving with a buffer and stopping at a charger. In city traffic it
+> is worth far more, because there heating is a third of the total load
+> rather than a tenth. Across a fleet - ten heating hours a day, a
+> hundred and fifty winter days - it is about two thousand kilowatt-hours
+> per car per winter, ten thousand kilometres of free range per car. On
+> the twenty thousand Lucid Gravity Uber is deploying, forty
+> gigawatt-hours a winter.
+> Time to warm. The reason the heating layer sits directly under the
+> skin and not under the absorber is that there is almost no mass above
+> it - about a kilo per square metre. Lifting that skin thirty degrees
+> takes fifty kilojoules per square metre, so at an eight-hundred-watt
+> boost the surface is at working temperature in ninety seconds to two
+> minutes, and two hundred watts holds it there - about fifteen degrees
+> above cabin air, so thirty-two to thirty-five. Radiant heat reaches
+> the skin the instant the surface is warmer than the skin. Blown air at
+> minus seven takes five to fifteen minutes to make a cabin comfortable,
+> and the windscreen gets the air first anyway. We are faster than the
+> air, not slower.
+> And a fleet car knows something a private car does not: it knows when
+> you board. The mat preheats from the dock on the two-minute drive to
+> the pickup, so the first step is onto a warm floor. That heat-up curve
+> is the first thing we put on the thermography bench - it is in the ask.
+
+**Q — The dock is inductive - what is the efficiency, and is it safe?**
+
+> Efficiency first. The standard for wireless power in cars is SAE
+> J2954, written for eleven kilowatts across a hundred and twenty-five
+> millimetres of air under a moving car. It demands eighty-five percent
+> DC to DC, and published bench work measures ninety-seven. Our link is
+> two hundred watts, nine hundred at boost, across five millimetres, and
+> the magnets that hold the mat align the coils perfectly every time.
+> That is the easy end of the same physics: above ninety-five percent
+> coil to coil, ninety to ninety-five end to end. So we lose ten to
+> twenty watts - and half of that loss sits in the receiver inside the
+> mat, above the absorber, which is resistive heat pointing at the
+> passenger's feet. The honest alternative is spring contacts at
+> ninety-nine percent, and we would bench both. We chose contactless
+> because people step on this with wet, salted shoes and it is pulled
+> out every day: there is no connector to corrode, because there is no
+> connector.
+> Safety, four things. One - the mat is galvanically isolated and
+> low-voltage, with no exposed conductor. Induction is a safety feature
+> here, not a convenience. Two - stray field. J2954 caps it at
+> twenty-seven microtesla at eighty centimetres, aligned with ICNIRP. We
+> run a fiftieth of the power across a twenty-fifth of the gap with
+> ferrite on both sides, so the magnetic circuit is nearly closed; the
+> number that has to be proven is at the foot, ten to thirty millimetres
+> away, and that measurement drives the shielding. For scale, an
+> induction hob runs two kilowatts with a cook standing at a hundred
+> millimetres, and it is in every kitchen. Three - foreign objects. The
+> pad does not energise until it has handshaked with a docked mat, so an
+> exposed pad is dead; then loss-of-Q detection and temperature sensors
+> in the pad. J2954 allows either detection or a flux cap, and at two
+> hundred watts a coin warms by a few degrees, it does not ignite. Four
+> - the surface: thirty-two to thirty-five degrees, a hard cut-out in
+> hardware at forty-five, distributed sensors, and a self-limiting
+> heating ink so a coat dropped on the floor throttles that patch
+> instead of cooking it. The group that matters is the passenger who
+> cannot feel it - asleep, or with reduced sensation - which is why the
+> limit is low and in hardware, not software.
+> Two more we have thought about: EMC is a CISPR 25 job, and we keep the
+> switching band clear of the AM and keyless-entry bands. And retention
+> - four magnets and a mechanical lip are a better floor-mat anchorage
+> than the clips cars use today, which is already a regulated topic.
+
 **Q — Why not the truck - Challenge A?**
 
 > Because the driver it asks us to keep warm will not be there. Challenge A puts the word driver in quotation marks itself. If the truck drives itself by 2035, the whole inhabited cab loses its reason to exist - headliners, side panels, bunk bed support, the heated mat. That is a trend that kills existing Autoneum products, and the answer to it is to follow the passenger, not the driver. Europe will keep sleeper cabs for years, but it is a shrinking market with shrinking innovation budgets.
+
+**Q — What about summer - can the same floor cool?**
+
+> It is a heater, and we say so. In summer the floor still earns its place through the acoustics and the surface - a quiet, beautiful cabin is the product, warmth is its winter half. Radiant cooling through a floor is possible in principle, but condensation and comfort physiology make it a research item, not a promise we would put in front of a board.
 
 ## Slide by slide
 
@@ -124,117 +231,125 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 
 **On screen**
 
-- subtitle: A luxury floor for premium ride services - warm, quiet, designed, and it swaps in seconds
-- image: `../midterm/assets/01-robotaxi-cabin-floor.jpg`
+- subtitle: A heated luxury floor for premium autonomous journeys
+- image: `assets/01-luxury-autonomous-cabin-warm-floor-night.jpg`
 
 **Say**
 
-> We are Aladdin and the Magic Carpet. Our carpet is a floor for the premium end of the robotaxi market - the Uber Black class - and its trick is that it comes out of the car in three seconds. Let us start at the end of a working day.
+> We are Aladdin and the Magic Carpet. Our carpet does not fly. It is warm, it is quiet, and it is the reason a premium ride arrives in Geneva without stopping to charge. Let us start at the end of that journey.
 
-### 2 — Six in the evening, slush outside: the fare steps into a cabin that is already warm underfoot
+### 2 — Geneva to Winterthur, February, six in the morning: 300 km, warm underfoot, and the car does not stop to charge
 
 **Beat:** Cold open · **Layout:** `image-full`
 
 **On screen**
 
-- body: Nobody scrubbed it. The mat that earned all day just went back to the depot for a clean one.
-- image: `../midterm/assets/03-open-door-winter-slush.jpg`
+- body: A premium ride, a long one, in winter - and it ends here, at nine.
+- **VIDEO** `assets/02-journey.mp4` — plays here; the still below is the poster frame
+- poster: `assets/02-premium-driverless-car-winter-lake-road.jpg`
 
 **Say**
 
-> Picture it. Winter, six in the evening, slush on the pavement. A premium robotaxi pulls up - the Uber Black of 2035. The fare opens the door and steps out of the cold onto a floor that is warm underfoot, into a cabin that is quiet, that looks like it was designed for him. This car has been working since five in the morning. Nobody has scrubbed anything. Hold that picture - we come back to it.
+> Picture it. February, six in the morning, minus five outside. A premium autonomous car leaves Geneva for Winterthur - three hundred kilometres, three hours. The passenger takes off her shoes. The floor is warm. The cabin is quiet. And the car does not stop once to charge. It arrives at nine - here, at your front door. Hold that picture. Everything we show you is how it gets there.
 
-### 3 — By 2035 the premium robotaxi is a luxury cabin that works sixteen hours a day
+**Source on slide:** Road distance Geneva-Winterthur ~300 km; Volvo Cars, 360c concept 2018 - autonomous journeys of ~300 km as the alternative to short-haul flights
+
+### 3 — By 2035 the premium ride is a long one, and the fare pays for the cabin
 
 **Beat:** Setup · **Layout:** `two-col`
 
 **On screen**
 
-- • Premium ride services: Uber Black class fleets. The fare pays for a warm, beautiful cabin - most on long journeys.
-- • C/D-segment BEV, Level 4: Europe and Switzerland. Autoneum's largest market, 46 % of revenue.
-- • The private owner: Swaps in a cheap mat when his car works as a taxi. More on him at the end.
+- • Premium ride services: Uber Black class, long journeys. The fare pays for the cabin, not the distance.
+- • Premium BEV, Level 4: Europe and Switzerland - Autoneum's largest market, 46 % of revenue.
+- • The private owner: Runs the same floor at the weekend. More on him at the end.
+- image: `assets/03-ghost-luxury-sedan-floor-highlighted.jpg`
 
 **Say**
 
-> Our customer is the premium ride service - the Uber Black class, run by big operators. That class is being built right now: Uber is putting twenty thousand Lucid Gravity, a luxury SUV, on its platform from 2026, and Waymo's own car is a seventy-thousand-dollar Jaguar. Six million robotaxis by 2035, and Europe is Autoneum's largest market. The private owner who rents his car out is a bonus of the same idea - we park him until the end.
+> Our customer is the premium ride service - the Uber Black class of 2035, on the journeys where the cabin is the product: airport to resort, city to city, two or three hours. Six million robotaxis by 2035, and the premium slice is where a supplier's margin is. Europe is Autoneum's largest market. The private owner who buys the same floor for his own car is a bonus - we park him until the end.
 
 **Source on slide:** Goldman Sachs, Robotaxis to become a $400 bn market in 2035 (Apr 2026); Autoneum FY2025 revenue release (Jan 2026)
 
-### 4 — This is what twenty strangers a day leave behind
+### 4 — Heating the air is the single largest winter drain on an electric car
 
-**Beat:** Problem · **Layout:** `image-full`
-
-**On screen**
-
-- body: A private car carries 2-4 people a day. A Waymo does 20+ paid rides - and a premium fare rates what he sees.
-- image: `../midterm/assets/07-ruined-shared-car-floor.jpg`
-
-**Say**
-
-> Salt, sand, a coffee ring, flattened fibres. Waymo runs half a million paid rides a week on three to four thousand cars - twenty-plus rides per car per day, each one a stranger, and nobody supervises a driverless cabin. For a premium service this is not a nuisance, it is the product failing: the fare who paid extra rates what he sees when the door opens.
-
-**Source on slide:** Waymo, ~500,000 paid rides a week on ~3,000-3,700 vehicles (TechCrunch, CNBC, Dec 2025 - Mar 2026)
-
-### 5 — Cleaning is the one thing a robotaxi cannot do while earning
-
-**Beat:** Unfair fight · **Layout:** `metrics`
+**Beat:** Problem · **Layout:** `metrics`
 
 **On screen**
 
-- • 30-60 min — heavy soiling doubles or triples it
-- • USD 60-150 — routine, up to 500 when bad
-- • = downtime — it earns only while carrying people
+- • 3-5 kW — continuous, the largest cold-weather load
+- • -41 % — AAA test across five EVs
+- • -12 % — the cabin is the difference
 
 **Say**
 
-> Thirty to sixty minutes for a basic interior clean, two to three times that when it is bad. Detailing-trade figures, not an automotive study - we say so. But the money is not the cleaning bill, it is the hour the car spends earning nothing. For a fleet, uptime is the whole product. And the private owner has it worse: no depot, no crew, his garage on a Sunday - and his own car, that strangers have been in all week.
+> AAA put five electric cars on a dynamometer at minus seven degrees. Range fell by twelve percent from the cold itself - and by forty-one percent once the heating was on. The battery is not the problem. Heating two cubic metres of air with three to five kilowatts is. For a private commuter that is annoying. For a car that sells long journeys it is the business model.
 
-**Source on slide:** Consumer detailing trade estimates, 2025 (not an automotive study); press reporting on Waymo fleet handlers
+**Source on slide:** AAA, Cold weather reduces electric vehicle range, Feb 2019 (20 F / -7 C, five vehicles); US DOE VTO program record, Sep 2024
 
-### 6 — A luxury hotel never cleans the mattress
+### 5 — On a 300-km journey that drain is a charging stop - and a premium fare waiting at a charger is a lost customer
 
-**Beat:** Hero · **Layout:** `statement`
+**Beat:** Unfair fight · **Layout:** `statement`
 
 **On screen**
 
-- kicker: Learning from another industry
-- body: It changes the layer above it. Each layer has one job, and the one that touches the guest is replaced every time.
+- kicker: The unfair fight
+- body: A car with 400 km of nominal range keeps about 240 with the heater on. Geneva to Winterthur is 300.
 
 **Say**
 
-> Hotels do not deep-clean a room between guests. They change the contact layer - protector, sheet, duvet cover. The expensive core underneath is protected and almost never washed, and that is why housekeeping is measured in minutes. That is the whole idea, applied to a car floor: stop cleaning the car. Change the layer that got dirty.
+> Do the arithmetic the operator does. A four-hundred-kilometre car keeps about two hundred and forty with the heater running in winter. Geneva to Winterthur is three hundred. That is a charging stop - twenty minutes at a motorway plaza, in the cold, for a passenger who paid a premium not to have exactly that experience. Every winter journey over two hundred kilometres has this problem, and the premium tier is where it costs most.
 
-### 7 — So the mat comes out at the depot, and the cleaning happens somewhere else
+**Source on slide:** AAA 2019 (-41 % with heating at -7 C); road distance Geneva-Winterthur ~300 km
 
-**Beat:** Hero · **Layout:** `image-right`
+### 6 — Blown air is the wrong tool for a lounge
+
+**Beat:** Unfair fight · **Layout:** `image-right`
 
 **On screen**
 
-- lead: The mat becomes a part the depot swaps - the car never waits for a cleaner.
-- • Wipe-clean skin, mono-material PET
-- • Magnetic dock, no visible fasteners
-- • Cleaned off the vehicle
-- **VIDEO** `../midterm/assets/07-swap-lift-out.mp4` — plays here; the still below is the poster frame
-- poster: `../midterm/assets/07-clip-in-floor-mat-lifted-out.png`
+- lead: Climate control is built around a dashboard. The dashboard is gone.
+- • No fixed seats, so no vent points at anyone
+- • Dry, noisy, and gone at every door
+- • Two warm surfaces: neutral comfort 6 C lower
+- image: `assets/06-luxury-driverless-lounge-no-dashboard.jpg`
 
 **Say**
 
-> This is it. Watch the corner. Four magnets hold it, they centre it, nothing is screwed or clipped, nothing corrodes. It lifts out in seconds and the cleaning happens away from the car - the car leaves the depot with a fresh mat while the dirty one is washed. For a fleet that is the difference between a car that earns and a car that waits.
+> Every heating system in a car today is designed around the dashboard and the driver's seat. Take the driver out and the seats turn to face each other, or fold flat - there is no reliable place to point a vent. Blown air is also dry, it is noisy, and it is gone every time a door opens. Whereas with two warm surfaces around them, people report neutral comfort with the air six degrees colder. That is the study, not us.
 
-### 8 — But a floor you can wipe is a floor you can hear
+**Source on slide:** Energy and Buildings 2026 - neutral comfort ~6 C below setpoint with two radiant sources
+
+### 7 — Heat the passenger, not the air: 200 W instead of 4,500
+
+**Beat:** Hero · **Layout:** `image-full`
+
+**On screen**
+
+- body: The S-Class already heats its armrests. Rolls-Royce sells the mat as a signature. Nobody has heated the floor.
+- **VIDEO** `assets/07-thermal-warmup.mp4` — plays here; the still below is the poster frame
+- poster: `assets/07-thermal-camera-view-warm-floor-cabin.jpg`
+
+**Say**
+
+> So we stop heating the air. Radiant surfaces heat the person - around two hundred watts of warm floor and lower wall do what four and a half kilowatts of blown air do for comfort. And luxury already knows this: the S-Class has heated its armrests and door panels since 2014, warmth from all sides. Rolls-Royce sells lambswool floor mats as a signature piece. Nobody has put the two together on the floor. That is our product.
+
+**Source on slide:** Applied Thermal Engineering 2024 (~200 W radiant vs ~4.5 kW convective); Mercedes-Benz Warmth Comfort; Rolls-Royce Boutique
+
+### 8 — But a heated floor is either loud or cold
 
 **Beat:** The turn · **Layout:** `statement`
 
 **On screen**
 
 - kicker: The harder problem
-- body: Quiet needs an open, porous surface. Clean wants a closed one. Today you pick one.
+- body: An acoustic absorber is a thermal insulator. Heater under it: the warmth goes into the body. Heater on top: it blocks the sound.
 
 **Say**
 
-> Here the idea nearly died. A quiet floor has to be open and porous so sound gets in and is absorbed. A clean floor wants to be closed, so nothing gets in - and a closed surface reflects every bit of road noise back at you. Today you choose: a carpet that absorbs and stains, or a rubber mat that wipes and is loud. In an electric robotaxi without engine noise that is worse, because road and wind are all that is left.
+> Here the idea nearly died. The quiet in a premium cabin comes from an absorber under the floor - open, porous, and therefore an excellent insulator. Put the heater underneath it and the warmth goes into the body structure, not the cabin. Put a normal heating foil on top and you have sealed the absorber: a warm floor that is loud. On a three-hour journey, loud is the thing you cannot sell.
 
-### 9 — Autoneum has already solved all of it, just never in the same part
+### 9 — Autoneum already makes every layer of it
 
 **Beat:** Companion · **Layout:** `table`
 
@@ -244,83 +359,85 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 
 **Say**
 
-> Every ingredient exists inside Autoneum today. Washable surface flooring is a truck product that came in with Borgers in 2023. Alpha-Liner is a wheelhouse liner whose coating is tuned so the textile still absorbs while the surface wipes clean - our exact conflict, solved, on the outside of the car. RIMIC proves you can absorb through a closed skin. Autoneum even owns the measurement. None of these has been combined, and none has been offered in a passenger car.
+> The answer is an order of layers, and Autoneum owns every one. Heated floor mats exist in the truck portfolio. Hybrid-Acoustics is the absorber. Alpha-Liner proves a coated textile can still absorb - the porosity is tuned through the coating. RIMIC proves you can absorb through a closed skin with a tuned micro-perforation. Di-Light and Relive-1 are the premium surfaces. Nothing here is invented. It has never been stacked.
 
-**Source on slide:** Autoneum Challenge deck, 7 Sep 2026, slides 6-7; Autoneum product brochure 2021; Autoneum press release on Borgers, Apr 2023
+**Source on slide:** Autoneum Challenge deck, 7 Sep 2026, slides 6-7; Autoneum product brochure 2021
 
-### 10 — One dock, three tiers - we build the top one, the others fall out of it
+### 10 — The build: a premium skin, a heater that lets sound through, an absorber, a dock
 
-**Beat:** Resolution · **Layout:** `two-col`
+**Beat:** Resolution · **Layout:** `image-right`
 
 **On screen**
 
-- lead: Tier 3 is the product for premium fleets. Tiers 1 and 2 are the same dock with less on it.
-- • Swap and wipe: Out in seconds, cleaned off the vehicle.
-- • Quiet and premium: Perforated skin over the absorber. And it looks designed.
-- • Warm: Heating tracks under the skin. Feel at home.
-- image (not yet resolved): _three ghost cars tiers_
+- • Perforated premium skin
+- • Printed heating tracks
+- • Absorber
+- • Magnetic dock
+- image: `assets/10-exploded-view-heated-luxury-floor-mat.jpg`
 
 **Say**
 
-> The product line, on the distance axis of the trend matrix we were shown - but read it from the top. Tier three is what we build for premium fleets: warm, quiet, designed. Take the heating out and you have tier two for a mid-market ride. Take the acoustics out and you have tier one for the city shuttle. One dock carries all three, so the premium product funds a platform that the volume end can buy into later. The margin is at the top; that is where we start.
+> Read it top down. A perforated premium skin - lambswool look, wipeable - that lets sound through the holes, RIMIC's trick brought inside. Directly under it, printed heating tracks: warm within seconds because there is almost no mass above them, and open enough that sound passes. Then the absorber, which now works twice - acoustically, and as insulation that pushes the warmth up into the cabin. And underneath, a magnetic dock with contactless power, so there is no cable and nothing to corrode.
 
-### 11 — Luxury already heats its surfaces and sells the mat as a signature
+### 11 — The premium market is being built right now
 
 **Beat:** Resolution · **Layout:** `metrics`
 
 **On screen**
 
-- lead: S-Class heated armrests. Rolls-Royce lambswool mats. Never on a swappable floor.
+- lead: Not a concept. Fleets, prices, and buyers on record.
 - • 20,000 — luxury-SUV robotaxis from 2026
 - • USD 70,000 — a Jaguar, since 2018
 - • +13-40 % — Waymo over Uber, 2025-26
 
 **Say**
 
-> Three facts that make tier three a business and not a wish. The premium robotaxi is being built: Uber is deploying twenty thousand Lucid Gravity, a luxury SUV, from 2026, and Waymo has run a seventy-thousand-dollar Jaguar since 2018. Riders pay for the experience: Obi measured Waymo thirty to forty percent above Uber in mid-2025, still thirteen percent above in early 2026. And luxury already heats surfaces - the S-Class warmth package heats armrests and door panels - and already treats the mat as a signature. We combine the two and make it swappable.
+> Three facts that make this a business. Uber is deploying twenty thousand Lucid Gravity - a luxury SUV - as robotaxis from 2026. Waymo has run a seventy-thousand-dollar Jaguar since 2018. And riders pay for the experience: Obi measured Waymo thirty to forty percent above Uber in mid-2025, still thirteen percent above in early 2026. McKinsey found half of interested buyers would pay ten thousand dollars for a highway pilot. The premium tier is real, and it is where the margin is.
 
-**Source on slide:** Lucid / Uber / Nuro, Jul 2025; Waymo Blog 2018; Obi via TechCrunch, Jan 2026; Mercedes-Benz Warmth Comfort package; Rolls-Royce Boutique
+**Source on slide:** Lucid / Uber / Nuro, Jul 2025; Waymo Blog 2018; Obi via TechCrunch, Jan 2026; McKinsey CFM Consumer Survey 2022
 
-### 12 — On a winter journey, warmth is the difference between arriving and charging
+### 12 — A luxury surface has to stay luxury - so it lifts out in seconds
 
-**Beat:** Resolution · **Layout:** `image-full`
-
-**On screen**
-
-- body: Around 200 W of radiant surface instead of 4,500 W of blown air. Winter otherwise costs an EV 20-40 % of its range.
-- image: `../midterm/assets/06-driverless-lounge-interior.jpg`
-
-**Say**
-
-> This is where the luxury mat earns its price. Radiant surfaces give comfort at around two hundred watts where blown air needs four and a half kilowatts, and people feel neutral several degrees below the set air temperature. Winter otherwise costs an EV twenty to forty percent of its range - on a three-hour trip that is a charging stop. Be careful with the claim: it heats the person, not the cabin; the air stays for demisting. Volvo drew this journey years ago - a cabin that replaces the three-hundred-kilometre flight. Zurich to Geneva is two hundred and eighty.
-
-**Source on slide:** Applied Thermal Engineering 2024; Energy and Buildings 2026; AAA EV range test 2019 (-41 % at -7 C with heating); US DOE VTO 2024
-
-### 13 — Fifty warm cabins a day, and not one of them scrubbed inside the car
-
-**Beat:** Payoff · **Layout:** `statement`
+**Beat:** Resolution · **Layout:** `image-right`
 
 **On screen**
 
-- kicker: Six in the evening, again
-- body: The luxury mat runs all week. At the depot it swaps for a clean one in seconds. That is what the fare pays for.
+- lead: Serviced off the car. Never scrubbed inside it.
+- • Lambswool for winter, linen-look for summer
+- • Magnetic dock, no tools, thirty seconds
+- • The same dock in a private car - later
+- **VIDEO** `assets/12-lux-swap.mp4` — plays here; the still below is the poster frame
+- poster: `assets/12-luxury-floor-mat-lifted-from-premium.jpg`
 
 **Say**
 
-> Now you know what you saw at the start. That cabin worked since five in the morning on a warm, quiet, designed floor - and when it came through the depot the mat came out and a clean one went in, in seconds, while the car kept moving. Fifty cabins a day like that, and not one of them scrubbed inside the car. That is what a premium fare pays for, and it is what the operator saves.
+> One more thing about a luxury surface: it has to stay luxury. So the mat sits on a magnetic dock and lifts out in seconds - serviced off the car, swapped for a summer surface in May, never scrubbed inside the cabin. Watch the corner. Four magnets hold it and centre it, contactless power runs the heater, nothing corrodes. The dock is not the product. It is how the product stays what it is.
 
-### 14 — The same dock lets a private owner play taxi on a cheap mat and drive home on his own
+### 13 — Winterthur, nine in the morning, at your front door: warm, quiet, and no stop on the way
+
+**Beat:** Payoff · **Layout:** `image-full`
+
+**On screen**
+
+- body: Three hours from Geneva on a warm floor. That is what the fare paid for. That is what the operator saved.
+- image (not yet resolved): _arrival Autoneum Winterthur winter morning_
+
+**Say**
+
+> Now you know how the journey ends. Nine in the morning, Winterthur - this building, your front door. Three hours from Geneva on a warm floor in a quiet cabin, and the car never stopped to charge, because it heated one person, not two cubic metres of air. That is what the fare paid for. That is what the operator saved, on every winter journey, on every car in the fleet.
+
+### 14 — The private owner runs the same floor at the weekend - and a standard one when the car earns
 
 **Beat:** Bonus · **Layout:** `statement`
 
 **On screen**
 
 - kicker: One more thing
-- body: Luxury mat for himself, cheap mat for the shift. Thirty seconds between them.
+- body: Same dock, thirty seconds. He comes free with the platform.
 
 **Say**
 
-> And because it is a dock, the mat that goes back in does not have to be the same kind of mat. A private owner who rents his car out as a robotaxi keeps two: a cheap one that strangers stand on all week, and his own luxury one for Friday evening and the drive to the mountains. Same dock, thirty seconds. We did not design for him - he comes free with the platform.
+> And because it is a dock, the same floor works in a private car. An owner who rents his car out during the week keeps the heated lambswool mat for his own weekend drive to the mountains, and drops a standard one in when the car goes out to earn. Same dock, thirty seconds. We did not design for him - he comes free with the platform.
 
 ### 15 — What we ask the board for
 
@@ -328,12 +445,12 @@ The objections a sceptical audience will raise, and the answer you give. Rehears
 
 **On screen**
 
-- body: Sources: Autoneum challenge deck 2026, product brochure 2021, FY2025 release; Goldman Sachs 2026; Obi / TechCrunch 2026; Lucid-Uber-Nuro 2025; AAA 2019, US DOE 2024; Applied Thermal Engineering 2024, Energy and Buildings 2026. Full references in the presenter script.
-- • A pilot: one premium fleet, fifty docks, one winter
-- • Lab time on the Cleanability Analyzer and an impedance tube
-- • A decision to treat the dock as a platform, not the mat as a part
+- body: Sources: Autoneum challenge deck 2026, product brochure 2021, FY2025 release; AAA 2019, US DOE 2024; Applied Thermal Engineering 2024, Energy and Buildings 2026; Goldman Sachs 2026; Lucid-Uber-Nuro 2025; Obi / TechCrunch 2026; Mercedes-Benz, Rolls-Royce, Volvo. Full references in the presenter script.
+- • A pilot: one premium fleet, fifty heated floors, one winter
+- • Lab time: thermography and an impedance tube
+- • Treat the dock as the platform and the heated floor as its first product
 
 **Say**
 
-> Three things. A pilot with one premium fleet - fifty docks, one winter - because the warm mat proves itself in December, not in a lab. Lab time on the instruments Autoneum already owns. And a decision about what this is: not a mat, a dock - a platform that starts at the luxury end and carries the rest of the market later. Thank you.
+> Three things. A pilot with one premium fleet - fifty heated floors, one winter - because a warm floor proves itself in December, not in a lab. Lab time on the instruments Autoneum already owns: thermography for the heat-up, an impedance tube for what the heater costs the acoustics. And a decision about what this is: not a mat - a dock, a platform whose first product is the heated luxury floor. Thank you.
 
