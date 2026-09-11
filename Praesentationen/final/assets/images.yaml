@@ -1,5 +1,40 @@
-tiers:
-  file: assets/10-three-ghost-cars-tiers.jpg
-  query: three ghost cars tiers
+lux-cabin:
+  file: assets/01-luxury-autonomous-cabin-warm-floor-night.jpg
+  query: luxury autonomous cabin warm floor night
+  credit: generated
+  source: AI-generated
+journey:
+  file: assets/02-premium-driverless-car-winter-lake-road.jpg
+  query: premium driverless car winter lake road dusk
+  credit: generated
+  source: AI-generated
+ghost:
+  file: assets/03-ghost-luxury-sedan-floor-highlighted.jpg
+  query: ghost luxury sedan floor highlighted
+  credit: generated
+  source: AI-generated
+lounge-lux:
+  file: assets/06-luxury-driverless-lounge-no-dashboard.jpg
+  query: luxury driverless lounge no dashboard
+  credit: generated
+  source: AI-generated
+thermal:
+  file: assets/07-thermal-camera-view-warm-floor-cabin.jpg
+  query: thermal camera view warm floor cabin
+  credit: generated
+  source: AI-generated
+exploded:
+  file: assets/10-exploded-view-heated-luxury-floor-mat.jpg
+  query: exploded view heated luxury floor mat
+  credit: generated
+  source: AI-generated
+lux-swap:
+  file: assets/12-luxury-floor-mat-lifted-from-premium.jpg
+  query: luxury floor mat lifted from premium footwell
+  credit: generated
+  source: AI-generated
+arrival:
+  file: assets/13-premium-car-arrival-night-lakefront-warm.jpg
+  query: premium car arrival night lakefront warm cabin
   credit: generated
   source: AI-generated

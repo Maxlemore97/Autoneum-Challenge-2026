@@ -54,8 +54,8 @@ def collect(prs):
         has_source = False
         foot_y = prs.slide_height - 685800          # bottom 0.75"
         for sh in s.shapes:
-            if sh.shape_type == MSO_SHAPE_TYPE.PICTURE:
-                pics += 1
+            if sh.shape_type in (MSO_SHAPE_TYPE.PICTURE, MSO_SHAPE_TYPE.MEDIA):
+                pics += 1                   # a video with its poster is a visual too
                 pic_area += (sh.width or 0) * (sh.height or 0)
                 continue
             t = shape_text(sh)

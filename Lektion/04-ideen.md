@@ -4,54 +4,48 @@ Stand 8. Sep 2026.
 
 **Teamentscheid:** Challenge **C – Robotaxi / Cabin Comfort**.
 
-## Fokus — gilt für alles Weitere (Stand 9. Sep 2026, abends)
+## Fokus — gilt für alles Weitere (Stand 9. Sep 2026, spät)
 
 **Team:** Aladdin and the Magic Carpet (Team 4) · Challenge C, Robotaxi Cabin Comfort.
 
-**Das Produkt:** Eine Bodenmatte, die auf einer **magnetischen Dock** sitzt und sich
-in Sekunden wechseln lässt — Einrasten wie ein MagSafe-Stecker, kein Werkzeug,
-keine sichtbaren Kabel. Drei Ausbaustufen auf derselben Dock, jede enthält die
-darunter: **1 billig und abwischbar · 2 leise und schön · 3 warm (Heizung).**
+**Was wir bauen:** eine **beheizte Luxusmatte** — der magic carpet — für **Premium-
+Fahrdienste auf langen Fahrten**. Warm unter den Füssen, leise, eine Oberfläche, die
+nach Luxus aussieht. Verkauft an die Betreiber der Uber-Black-Klasse und an die
+OEMs, die deren Kabinen bauen.
 
-**Das Ziel und der Bonus:**
+**Für wen und warum:** Der Fahrgast zahlt einen Premium-Fahrpreis für eine lange
+Fahrt — Zürich–Genf, Zürich–München — im Winter, in einem Elektrofahrzeug ohne
+Fahrer. Dort ist die Kabinenheizung der grösste Reichweitenfresser (−41 % bei −7 °C),
+die Klimaanlage bläst trocken und laut, und ohne feste Sitzordnung zielt kein
+Lüftungsauslass mehr auf jemanden. **Die Fläche heizt den Menschen mit ~200 W statt
+die Luft mit ~4'500 W** — ohne Ladestopp ankommen, „feel at home".
 
-1. **Ziel: die Luxuslinie für grosse Premium-Fahrdienste** (Uber-Black-Klasse, betrieben
-   von grossen Anbietern). Die Luxusmatte (Stufe 3) fährt ganztags — warm, leise,
-   gestaltet — und wird im Depot in Sekunden gegen eine saubere getauscht. Der Nutzen ist
-   **auf langen Fahrten** am grössten. Das steht von der Titelfolie an im Zentrum.
-2. **Bonus: der Privathalter.** Fährt privat seine Luxusmatte und setzt die billige ein,
-   wenn das Auto als Taxi arbeitet. Er ist das „one more thing" am Schluss — nicht der
-   Held, sondern der Beweis, dass die Dock eine Plattform ist.
+**Wenige, lange Etappen, wenig Dreck.** Dieses Publikum bringt kaum Schmutz ins Auto,
+und eine Langstreckenfahrt hat keine dreissig Türöffnungen. Das Reinigungsargument
+ist für diesen Kunden **kein Kaufgrund** und trägt die Geschichte nicht.
 
-**Wo der Schwerpunkt liegt:** auf **Stufe 3, Luxus für lange Fahrten, verkauft an
-Flotten**. Dort sitzt die Marge, dort spielen Wärme, Akustik und Design zusammen. Die
-billigeren Stufen fallen aus derselben Dock heraus — sie sind Folgeprodukt, nicht
-Erzählfokus.
+**Die Dock ist Mittel, nicht Botschaft:** Die Matte sitzt magnetisch und kommt in
+Sekunden heraus — damit die Luxusoberfläche gewartet, gepflegt und saisonal gewechselt
+werden kann, und als Bonus für den Privathalter, der am Wochenende seine eigene Matte
+fährt. Ein Satz in der Präsentation, nicht sechs Folien.
 
-**Die Erzählklammer:** Kaltstart mit dem Fahrgast des Premium-Dienstes, der aus dem
-Schneematsch in eine warme Kabine steigt; Einlösung am Schluss: fünfzig warme Kabinen am
-Tag, keine davon im Auto geputzt. Danach der Privathalter als „one more thing".
+**Der technische Kern:** Ein Absorber ist ein Wärmedämmstoff. Die Heizung muss über dem
+Absorber liegen und **akustisch transparent** sein — gedruckte Leiterbahnen unter einer
+perforierten Premium-Deckschicht. Warm *und* leise ist die eigentliche Erfindung.
 
-**Was bewusst nicht im Fokus ist:**
+**Was Autoneum dafür schon hat:** beheizte Bodenmatten (Nutzfahrzeug), Hybrid-Acoustics-
+Absorber, Alpha-Liner (beschichtet und trotzdem absorbierend), RIMIC-Mikroperforation,
+Di-Light/Relive-1 als Premium-Oberflächen. Luxus heizt heute schon Flächen (S-Klasse-
+Armlehnen) und verkauft Matten als Signatur (Rolls-Royce Lambswool).
 
-- Der Lastwagen — Challenge A ist verworfen (der „driver" existiert 2035 nicht).
-- Heizung als Kernbehauptung — sie ist Stufe 3, nicht das Produkt. Die Luft bleibt
-  fürs Entfrosten; die Fläche heizt den Menschen, nicht die Kabine.
-- Markenabbildungen in Bildern — Uber Black, Waymo, Rolls-Royce nur als Marktvergleich
-  im Text, nie als Logo oder erkennbares Fahrzeug im Bild.
+**Was bewusst nicht im Fokus ist:** Reinigung und Schnellwechsel als Hauptargument ·
+der Stadt-Robotaxi mit zwanzig Fremden am Tag · die drei Ausbaustufen als Erzählgerüst
+· der Lastwagen (Challenge A verworfen) · Markenlogos in Bildern.
 
-**Bildsprache:** Geisterkarosserie mit farbigem Bauteil, wie Autoneums eigene
-Portfolio-Folien. Luxus-Konnotation ohne Markenlogos.
+**Bewertung:** Final Story 50 / Design 30 / Auftritt 20.
 
-**Bewertung, an der alles gemessen wird:** Midterm Idee 50 / Recherche 30 /
-Design 20 — Final Story 50 / Design 30 / Auftritt 20.
-
-*Der Fliesstext unten ist älter als dieser Block. Wo er widerspricht, gilt der Block.*
-
-**Challenge A wurde bewusst verworfen**, weil die Aufgabe an ihrer eigenen
-Prämisse scheitert: Sie fragt nach Komfort für den „driver" eines autonomen
-Lastwagens — eine Person, die es 2035 voraussichtlich nicht mehr gibt.
-Begründung im Abschnitt „Warum eher nicht im Lastwagen".
+*Der Fliesstext unten ist älter und noch auf „Dreck und Wechseln" gebaut. Wo er
+widerspricht, gilt dieser Block. Er wird nach der Bestätigung der neuen Linie ersetzt.*
 
 ## Der Rahmen
 
